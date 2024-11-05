@@ -1,0 +1,1502 @@
+2024-09-26 14:59:45,211 - INFO - This is an info message
+2024-09-26 14:59:45,212 - WARNING - This is a warning message
+2024-09-26 14:59:45,212 - ERROR - This is an error message
+2024-09-26 15:00:03,643 - INFO - This is an info message
+2024-09-26 15:00:03,644 - WARNING - This is a warning message
+2024-09-26 15:00:03,644 - ERROR - This is an error message
+2024-09-26 15:00:30,001 - INFO - This is an info message
+2024-09-26 15:00:30,002 - WARNING - This is a warning message
+2024-09-26 15:00:30,002 - ERROR - This is an error message
+2024-09-26 15:01:57,869 - WARNING - Book with ID 1 already exists
+2024-09-26 15:01:57,872 - WARNING - Book with ID 2 already exists
+2024-09-26 15:01:57,874 - WARNING - Book with ID 3 already exists
+2024-09-26 15:01:57,876 - WARNING - Book with ID 4 already exists
+2024-09-26 15:01:57,879 - WARNING - Book with ID 5 already exists
+2024-09-26 15:01:57,882 - WARNING - Book with ID 6 already exists
+2024-09-26 15:01:57,883 - WARNING - Book with ID 7 already exists
+2024-09-26 15:01:57,886 - WARNING - Book with ID 8 already exists
+2024-09-26 15:01:57,889 - WARNING - Book with ID 9 already exists
+2024-09-26 15:01:57,891 - WARNING - Book with ID 10 already exists
+2024-09-26 15:01:57,893 - WARNING - Book with ID 11 already exists
+2024-09-26 15:01:57,895 - WARNING - Book with ID 12 already exists
+2024-09-26 15:01:57,897 - WARNING - Book with ID 13 already exists
+2024-09-26 15:01:57,899 - WARNING - Book with ID 14 already exists
+2024-09-26 15:01:57,900 - WARNING - Book with ID 15 already exists
+2024-09-26 15:01:57,903 - WARNING - Book with ID 16 already exists
+2024-09-26 15:01:57,905 - WARNING - Book with ID 17 already exists
+2024-09-26 15:01:57,908 - WARNING - Book with ID 18 already exists
+2024-09-26 15:01:57,909 - WARNING - Book with ID 19 already exists
+2024-09-26 15:01:57,911 - WARNING - Book with ID 20 already exists
+2024-09-26 15:07:57,710 - INFO - This is an info message
+2024-09-26 15:07:57,711 - WARNING - This is a warning message
+2024-09-26 15:07:57,711 - ERROR - This is an error message
+2024-09-26 15:15:00,000 - INFO - This is an info message
+2024-09-26 15:15:00,001 - WARNING - This is a warning message
+2024-09-26 15:15:00,001 - ERROR - This is an error message
+2024-09-26 15:18:44,709 - INFO - This is an info message
+2024-09-26 15:18:44,710 - WARNING - This is a warning message
+2024-09-26 15:18:44,710 - ERROR - This is an error message
+2024-09-26 15:18:59,787 - INFO - This is an info message
+2024-09-26 15:18:59,787 - WARNING - This is a warning message
+2024-09-26 15:18:59,787 - ERROR - This is an error message
+2024-09-26 15:19:25,827 - INFO - This is an info message
+2024-09-26 15:19:25,828 - WARNING - This is a warning message
+2024-09-26 15:19:25,828 - ERROR - This is an error message
+2024-09-26 15:20:07,984 - INFO - Book with ID 20 updated
+2024-09-26 15:20:59,756 - INFO - Book with ID 20 deleted
+2024-09-26 15:22:22,831 - INFO - This is an info message
+2024-09-26 15:22:22,832 - WARNING - This is a warning message
+2024-09-26 15:22:22,832 - ERROR - This is an error message
+2024-09-26 15:24:05,597 - INFO - This is an info message
+2024-09-26 15:24:05,598 - WARNING - This is a warning message
+2024-09-26 15:24:05,598 - ERROR - This is an error message
+2024-09-26 15:32:03,157 - INFO - Book 'Book Title 3774' added successfully
+2024-09-26 15:32:03,246 - INFO - Book with ID 3774 deleted
+2024-09-26 15:32:03,279 - WARNING - Book with ID 3774 not found
+2024-09-26 15:32:03,313 - WARNING - Book with ID 3774 not found
+2024-09-26 15:32:03,394 - INFO - User 'User Name 8815' added
+2024-09-26 15:32:03,433 - INFO - User with ID 8815 deleted
+2024-09-26 15:32:03,435 - INFO - Deleted reviews by user 8815
+2024-09-26 15:32:03,438 - INFO - Deleted user with ID 8815 and their reading progress
+2024-09-26 15:32:04,497 - INFO - Book 'Book Title 7170' added successfully
+2024-09-26 15:32:04,549 - INFO - Book with ID 7170 deleted
+2024-09-26 15:32:04,585 - WARNING - Book with ID 7170 not found
+2024-09-26 15:32:04,619 - WARNING - Book with ID 7170 not found
+2024-09-26 15:32:04,664 - INFO - User 'User Name 2510' added
+2024-09-26 15:32:04,699 - INFO - User with ID 2510 deleted
+2024-09-26 15:32:04,701 - INFO - Deleted reviews by user 2510
+2024-09-26 15:32:04,703 - INFO - Deleted user with ID 2510 and their reading progress
+2024-09-26 15:32:04,749 - INFO - Book 'Book Title 6152' added successfully
+2024-09-26 15:32:04,786 - INFO - Book with ID 6152 deleted
+2024-09-26 15:32:04,826 - WARNING - Book with ID 6152 not found
+2024-09-26 15:32:04,866 - WARNING - Book with ID 6152 not found
+2024-09-26 15:32:04,901 - INFO - User 'User Name 3984' added
+2024-09-26 15:32:04,943 - INFO - User with ID 3984 deleted
+2024-09-26 15:32:04,945 - INFO - Deleted reviews by user 3984
+2024-09-26 15:32:04,946 - INFO - Deleted user with ID 3984 and their reading progress
+2024-09-26 15:32:05,757 - INFO - Book 'Book Title 6431' added successfully
+2024-09-26 15:32:05,815 - INFO - Book with ID 6431 deleted
+2024-09-26 15:32:05,891 - WARNING - Book with ID 6431 not found
+2024-09-26 15:32:05,943 - WARNING - Book with ID 6431 not found
+2024-09-26 15:32:05,992 - INFO - Book 'Book Title 7534' added successfully
+2024-09-26 15:32:06,075 - INFO - User 'User Name 5568' added
+2024-09-26 15:32:06,180 - INFO - Book with ID 7534 deleted
+2024-09-26 15:32:06,247 - INFO - User with ID 5568 deleted
+2024-09-26 15:32:06,248 - WARNING - Book with ID 7534 not found
+2024-09-26 15:32:06,249 - INFO - Deleted reviews by user 5568
+2024-09-26 15:32:06,354 - INFO - Deleted user with ID 5568 and their reading progress
+2024-09-26 15:32:06,544 - WARNING - Book with ID 7534 not found
+2024-09-26 15:32:06,948 - INFO - Book 'Book Title 6950' added successfully
+2024-09-26 15:32:07,108 - INFO - Book with ID 6950 deleted
+2024-09-26 15:32:07,111 - INFO - User 'User Name 3375' added
+2024-09-26 15:32:07,332 - WARNING - Book with ID 6950 not found
+2024-09-26 15:32:07,333 - INFO - User with ID 3375 deleted
+2024-09-26 15:32:07,436 - INFO - Deleted reviews by user 3375
+2024-09-26 15:32:07,439 - INFO - Deleted user with ID 3375 and their reading progress
+2024-09-26 15:32:07,523 - WARNING - Book with ID 6950 not found
+2024-09-26 15:32:07,704 - INFO - Book 'Book Title 9130' added successfully
+2024-09-26 15:32:07,706 - INFO - User 'User Name 8227' added
+2024-09-26 15:32:07,935 - INFO - Book with ID 9130 deleted
+2024-09-26 15:32:07,936 - INFO - User with ID 8227 deleted
+2024-09-26 15:32:07,993 - INFO - Deleted reviews by user 8227
+2024-09-26 15:32:07,998 - INFO - Deleted user with ID 8227 and their reading progress
+2024-09-26 15:32:07,999 - WARNING - Book with ID 9130 not found
+2024-09-26 15:32:08,285 - WARNING - Book with ID 9130 not found
+2024-09-26 15:32:08,286 - INFO - Book 'Book Title 2107' added successfully
+2024-09-26 15:32:08,426 - INFO - Book with ID 2107 deleted
+2024-09-26 15:32:08,428 - INFO - User 'User Name 7171' added
+2024-09-26 15:32:08,547 - WARNING - Book with ID 2107 not found
+2024-09-26 15:32:08,548 - INFO - Book 'Book Title 6023' added successfully
+2024-09-26 15:32:08,638 - INFO - User with ID 7171 deleted
+2024-09-26 15:32:08,876 - INFO - Deleted reviews by user 7171
+2024-09-26 15:32:08,884 - INFO - Deleted user with ID 7171 and their reading progress
+2024-09-26 15:32:08,886 - WARNING - Book with ID 2107 not found
+2024-09-26 15:32:08,887 - INFO - Book with ID 6023 deleted
+2024-09-26 15:32:09,197 - WARNING - Book with ID 6023 not found
+2024-09-26 15:32:09,293 - INFO - User 'User Name 1808' added
+2024-09-26 15:32:09,294 - INFO - Book 'Book Title 3128' added successfully
+2024-09-26 15:32:09,614 - WARNING - Book with ID 6023 not found
+2024-09-26 15:32:09,616 - INFO - User with ID 1808 deleted
+2024-09-26 15:32:09,617 - INFO - Book with ID 3128 deleted
+2024-09-26 15:32:10,012 - INFO - Deleted reviews by user 1808
+2024-09-26 15:32:10,639 - INFO - Deleted user with ID 1808 and their reading progress
+2024-09-26 15:32:10,847 - WARNING - Book with ID 3128 not found
+2024-09-26 15:32:10,848 - INFO - User 'User Name 6680' added
+2024-09-26 15:32:10,849 - INFO - Book 'Book Title 3749' added successfully
+2024-09-26 15:32:10,850 - INFO - Book 'Book Title 8474' added successfully
+2024-09-26 15:32:11,703 - WARNING - Book with ID 3128 not found
+2024-09-26 15:32:11,705 - INFO - Book with ID 3749 deleted
+2024-09-26 15:32:11,707 - INFO - User with ID 6680 deleted
+2024-09-26 15:32:11,709 - INFO - Book with ID 8474 deleted
+2024-09-26 15:32:11,935 - INFO - Book 'Book Title 4000' added successfully
+2024-09-26 15:32:11,936 - INFO - Deleted reviews by user 6680
+2024-09-26 15:32:12,537 - INFO - Deleted user with ID 6680 and their reading progress
+2024-09-26 15:32:13,225 - WARNING - Book with ID 3749 not found
+2024-09-26 15:32:13,226 - INFO - Book 'Book Title 4322' added successfully
+2024-09-26 15:32:13,230 - INFO - Book with ID 4000 deleted
+2024-09-26 15:32:13,369 - INFO - User 'User Name 7452' added
+2024-09-26 15:32:13,982 - WARNING - Book with ID 8474 not found
+2024-09-26 15:32:14,814 - INFO - Book 'Book Title 1012' added successfully
+2024-09-26 15:32:15,793 - WARNING - Book with ID 3749 not found
+2024-09-26 15:32:15,795 - INFO - Book with ID 4322 deleted
+2024-09-26 15:32:15,798 - WARNING - Book with ID 4000 not found
+2024-09-26 15:32:15,802 - INFO - Book 'Book Title 9888' added successfully
+2024-09-26 15:32:15,803 - INFO - User with ID 7452 deleted
+2024-09-26 15:32:16,881 - WARNING - Book with ID 8474 not found
+2024-09-26 15:32:17,208 - INFO - Deleted reviews by user 7452
+2024-09-26 15:32:18,222 - INFO - Book with ID 1012 deleted
+2024-09-26 15:32:18,222 - INFO - Book 'Book Title 5285' added successfully
+2024-09-26 15:32:18,227 - INFO - Deleted user with ID 7452 and their reading progress
+2024-09-26 15:32:22,781 - WARNING - Book with ID 4322 not found
+2024-09-26 15:32:22,787 - WARNING - Book with ID 4000 not found
+2024-09-26 15:32:22,788 - INFO - User 'User Name 8802' added
+2024-09-26 15:32:22,790 - INFO - Book with ID 9888 deleted
+2024-09-26 15:32:22,796 - INFO - Book 'Book Title 3734' added successfully
+2024-09-26 15:32:25,398 - WARNING - Book with ID 1012 not found
+2024-09-26 15:32:25,398 - INFO - Book 'Book Title 4113' added successfully
+2024-09-26 15:32:25,400 - INFO - Book with ID 5285 deleted
+2024-09-26 15:32:25,401 - INFO - User 'User Name 8871' added
+2024-09-26 15:32:50,736 - INFO - Book 'Book Title 7416' added successfully
+2024-09-26 15:32:50,737 - WARNING - Book with ID 4322 not found
+2024-09-26 15:32:50,738 - WARNING - Book with ID 9888 not found
+2024-09-26 15:32:50,740 - INFO - User with ID 8802 deleted
+2024-09-26 15:33:10,409 - INFO - Book with ID 3734 deleted
+2024-09-26 15:33:10,411 - INFO - User 'User Name 3559' added
+2024-09-26 15:33:10,413 - INFO - Deleted reviews by user 8802
+2024-09-26 15:33:10,414 - WARNING - Book with ID 1012 not found
+2024-09-26 15:33:10,416 - INFO - User with ID 8871 deleted
+2024-09-26 15:33:10,417 - WARNING - Book with ID 5285 not found
+2024-09-26 15:33:10,420 - INFO - Deleted user with ID 8802 and their reading progress
+2024-09-26 15:33:10,422 - INFO - Deleted reviews by user 8871
+2024-09-26 15:33:27,935 - INFO - Deleted user with ID 8871 and their reading progress
+2024-09-26 15:33:38,547 - INFO - Book 'Book Title 6187' added successfully
+2024-09-26 15:33:38,550 - INFO - Book 'Book Title 4027' added successfully
+2024-09-26 15:33:38,552 - INFO - Book 'Book Title 8912' added successfully
+2024-09-26 15:33:38,556 - INFO - Book 'Book Title 4408' added successfully
+2024-09-26 15:33:38,556 - INFO - Book 'Book Title 7227' added successfully
+2024-09-26 15:33:38,558 - INFO - Book 'Book Title 7313' added successfully
+2024-09-26 15:33:38,559 - INFO - Book 'Book Title 9701' added successfully
+2024-09-26 15:33:38,561 - INFO - Book 'Book Title 5244' added successfully
+2024-09-26 15:33:43,155 - INFO - Book with ID 4027 deleted
+2024-09-26 15:33:43,157 - INFO - Book with ID 6187 deleted
+2024-09-26 15:33:43,159 - INFO - Book with ID 7227 deleted
+2024-09-26 15:33:43,162 - INFO - Book with ID 4408 deleted
+2024-09-26 15:33:43,164 - INFO - Book with ID 8912 deleted
+2024-09-26 15:33:43,166 - INFO - Book with ID 9701 deleted
+2024-09-26 15:33:43,167 - INFO - Book with ID 7313 deleted
+2024-09-26 15:33:43,172 - INFO - Book with ID 5244 deleted
+2024-09-26 15:33:43,173 - INFO - Book 'Book Title 7034' added successfully
+2024-09-26 15:33:46,504 - INFO - Book 'Book Title 3391' added successfully
+2024-09-26 15:33:55,090 - WARNING - Book with ID 4027 not found
+2024-09-26 15:33:55,091 - WARNING - Book with ID 4408 not found
+2024-09-26 15:33:55,092 - WARNING - Book with ID 7227 not found
+2024-09-26 15:33:55,093 - WARNING - Book with ID 9701 not found
+2024-09-26 15:33:55,094 - WARNING - Book with ID 6187 not found
+2024-09-26 15:33:55,096 - WARNING - Book with ID 8912 not found
+2024-09-26 15:33:55,097 - INFO - Book with ID 7034 deleted
+2024-09-26 15:33:55,098 - WARNING - Book with ID 5244 not found
+2024-09-26 15:33:55,098 - WARNING - Book with ID 7313 not found
+2024-09-26 15:33:55,101 - INFO - Book with ID 3391 deleted
+2024-09-26 15:36:36,759 - INFO - This is an info message
+2024-09-26 15:36:36,760 - WARNING - This is a warning message
+2024-09-26 15:36:36,760 - ERROR - This is an error message
+2024-09-26 15:37:04,380 - INFO - This is an info message
+2024-09-26 15:37:04,380 - WARNING - This is a warning message
+2024-09-26 15:37:04,381 - ERROR - This is an error message
+2024-09-26 15:38:14,259 - INFO - This is an info message
+2024-09-26 15:38:14,259 - WARNING - This is a warning message
+2024-09-26 15:38:14,260 - ERROR - This is an error message
+2024-09-26 15:42:59,552 - INFO - This is an info message
+2024-09-26 15:42:59,552 - WARNING - This is a warning message
+2024-09-26 15:42:59,553 - ERROR - This is an error message
+2024-09-26 15:44:05,682 - INFO - This is an info message
+2024-09-26 15:44:05,683 - WARNING - This is a warning message
+2024-09-26 15:44:05,683 - ERROR - This is an error message
+2024-09-26 15:44:27,702 - INFO - Book 'Book Title 8750' added successfully
+2024-09-26 15:44:27,704 - INFO - Book with ID 8750 deleted
+2024-09-26 15:44:27,707 - WARNING - Book with ID 8750 not found
+2024-09-26 15:44:27,709 - WARNING - Book with ID 8750 not found
+2024-09-26 15:44:27,712 - INFO - User 'User Name 7423' added
+2024-09-26 15:44:27,714 - INFO - User with ID 7423 deleted
+2024-09-26 15:44:27,716 - INFO - Deleted reviews by user 7423
+2024-09-26 15:44:27,717 - INFO - Deleted user with ID 7423 and their reading progress
+2024-09-26 15:44:28,734 - INFO - Book 'Book Title 9709' added successfully
+2024-09-26 15:44:28,738 - INFO - Book with ID 9709 deleted
+2024-09-26 15:44:28,740 - WARNING - Book with ID 9709 not found
+2024-09-26 15:44:28,742 - WARNING - Book with ID 9709 not found
+2024-09-26 15:44:28,746 - INFO - User 'User Name 5108' added
+2024-09-26 15:44:28,750 - INFO - User with ID 5108 deleted
+2024-09-26 15:44:28,751 - INFO - Deleted reviews by user 5108
+2024-09-26 15:44:28,752 - INFO - Deleted user with ID 5108 and their reading progress
+2024-09-26 15:44:29,353 - INFO - Book 'Book Title 7009' added successfully
+2024-09-26 15:44:29,358 - INFO - Book with ID 7009 deleted
+2024-09-26 15:44:29,363 - WARNING - Book with ID 7009 not found
+2024-09-26 15:44:29,369 - WARNING - Book with ID 7009 not found
+2024-09-26 15:44:29,374 - INFO - User 'User Name 2177' added
+2024-09-26 15:44:29,378 - INFO - User with ID 2177 deleted
+2024-09-26 15:44:29,378 - INFO - Deleted reviews by user 2177
+2024-09-26 15:44:29,379 - INFO - Deleted user with ID 2177 and their reading progress
+2024-09-26 15:44:29,771 - INFO - Book 'Book Title 2061' added successfully
+2024-09-26 15:44:29,778 - INFO - Book with ID 2061 deleted
+2024-09-26 15:44:29,788 - WARNING - Book with ID 2061 not found
+2024-09-26 15:44:29,796 - WARNING - Book with ID 2061 not found
+2024-09-26 15:44:29,804 - INFO - User 'User Name 1464' added
+2024-09-26 15:44:29,808 - INFO - User with ID 1464 deleted
+2024-09-26 15:44:29,810 - INFO - Deleted reviews by user 1464
+2024-09-26 15:44:29,812 - INFO - Deleted user with ID 1464 and their reading progress
+2024-09-26 15:44:30,397 - INFO - Book 'Book Title 1727' added successfully
+2024-09-26 15:44:30,403 - INFO - Book with ID 1727 deleted
+2024-09-26 15:44:30,407 - WARNING - Book with ID 1727 not found
+2024-09-26 15:44:30,411 - WARNING - Book with ID 1727 not found
+2024-09-26 15:44:30,416 - INFO - User 'User Name 1788' added
+2024-09-26 15:44:30,418 - INFO - User with ID 1788 deleted
+2024-09-26 15:44:30,419 - INFO - Deleted reviews by user 1788
+2024-09-26 15:44:30,420 - INFO - Deleted user with ID 1788 and their reading progress
+2024-09-26 15:44:30,826 - INFO - Book 'Book Title 9629' added successfully
+2024-09-26 15:44:30,827 - INFO - Book with ID 9629 deleted
+2024-09-26 15:44:30,830 - WARNING - Book with ID 9629 not found
+2024-09-26 15:44:30,833 - WARNING - Book with ID 9629 not found
+2024-09-26 15:44:30,835 - INFO - User 'User Name 3001' added
+2024-09-26 15:44:30,837 - INFO - User with ID 3001 deleted
+2024-09-26 15:44:30,839 - INFO - Deleted reviews by user 3001
+2024-09-26 15:44:30,840 - INFO - Deleted user with ID 3001 and their reading progress
+2024-09-26 15:44:31,019 - INFO - Book 'Book Title 1056' added successfully
+2024-09-26 15:44:31,023 - INFO - Book with ID 1056 deleted
+2024-09-26 15:44:31,027 - WARNING - Book with ID 1056 not found
+2024-09-26 15:44:31,030 - WARNING - Book with ID 1056 not found
+2024-09-26 15:44:31,032 - INFO - User 'User Name 6057' added
+2024-09-26 15:44:31,035 - INFO - User with ID 6057 deleted
+2024-09-26 15:44:31,037 - INFO - Deleted reviews by user 6057
+2024-09-26 15:44:31,037 - INFO - Deleted user with ID 6057 and their reading progress
+2024-09-26 15:44:31,431 - INFO - Book 'Book Title 3818' added successfully
+2024-09-26 15:44:31,436 - INFO - Book with ID 3818 deleted
+2024-09-26 15:44:31,439 - WARNING - Book with ID 3818 not found
+2024-09-26 15:44:31,441 - WARNING - Book with ID 3818 not found
+2024-09-26 15:44:31,444 - INFO - User 'User Name 7190' added
+2024-09-26 15:44:31,447 - INFO - User with ID 7190 deleted
+2024-09-26 15:44:31,448 - INFO - Deleted reviews by user 7190
+2024-09-26 15:44:31,449 - INFO - Deleted user with ID 7190 and their reading progress
+2024-09-26 15:44:31,854 - INFO - Book 'Book Title 7538' added successfully
+2024-09-26 15:44:31,859 - INFO - Book with ID 7538 deleted
+2024-09-26 15:44:31,866 - WARNING - Book with ID 7538 not found
+2024-09-26 15:44:31,872 - WARNING - Book with ID 7538 not found
+2024-09-26 15:44:31,876 - INFO - User 'User Name 2722' added
+2024-09-26 15:44:31,880 - INFO - User with ID 2722 deleted
+2024-09-26 15:44:31,882 - INFO - Deleted reviews by user 2722
+2024-09-26 15:44:31,884 - INFO - Deleted user with ID 2722 and their reading progress
+2024-09-26 15:44:32,054 - INFO - Book 'Book Title 4494' added successfully
+2024-09-26 15:44:32,058 - INFO - Book with ID 4494 deleted
+2024-09-26 15:44:32,062 - WARNING - Book with ID 4494 not found
+2024-09-26 15:44:32,065 - WARNING - Book with ID 4494 not found
+2024-09-26 15:44:32,071 - INFO - User 'User Name 1661' added
+2024-09-26 15:44:32,075 - INFO - User with ID 1661 deleted
+2024-09-26 15:44:32,077 - INFO - Deleted reviews by user 1661
+2024-09-26 15:44:32,079 - INFO - Deleted user with ID 1661 and their reading progress
+2024-09-26 15:44:32,461 - INFO - Book 'Book Title 4216' added successfully
+2024-09-26 15:44:32,464 - INFO - Book with ID 4216 deleted
+2024-09-26 15:44:32,467 - WARNING - Book with ID 4216 not found
+2024-09-26 15:44:32,471 - WARNING - Book with ID 4216 not found
+2024-09-26 15:44:32,475 - INFO - User 'User Name 4504' added
+2024-09-26 15:44:32,478 - INFO - User with ID 4504 deleted
+2024-09-26 15:44:32,479 - INFO - Deleted reviews by user 4504
+2024-09-26 15:44:32,480 - INFO - Deleted user with ID 4504 and their reading progress
+2024-09-26 15:44:32,693 - INFO - Book 'Book Title 9495' added successfully
+2024-09-26 15:44:32,701 - INFO - Book with ID 9495 deleted
+2024-09-26 15:44:32,708 - WARNING - Book with ID 9495 not found
+2024-09-26 15:44:32,713 - WARNING - Book with ID 9495 not found
+2024-09-26 15:44:32,720 - INFO - User 'User Name 2297' added
+2024-09-26 15:44:32,723 - INFO - User with ID 2297 deleted
+2024-09-26 15:44:32,724 - INFO - Deleted reviews by user 2297
+2024-09-26 15:44:32,726 - INFO - Deleted user with ID 2297 and their reading progress
+2024-09-26 15:44:32,899 - INFO - Book 'Book Title 7383' added successfully
+2024-09-26 15:44:32,904 - INFO - Book with ID 7383 deleted
+2024-09-26 15:44:32,908 - WARNING - Book with ID 7383 not found
+2024-09-26 15:44:32,911 - WARNING - Book with ID 7383 not found
+2024-09-26 15:44:32,915 - INFO - User 'User Name 1690' added
+2024-09-26 15:44:32,919 - INFO - User with ID 1690 deleted
+2024-09-26 15:44:32,921 - INFO - Deleted reviews by user 1690
+2024-09-26 15:44:32,921 - INFO - Deleted user with ID 1690 and their reading progress
+2024-09-26 15:44:33,102 - INFO - Book 'Book Title 8657' added successfully
+2024-09-26 15:44:33,111 - INFO - Book with ID 8657 deleted
+2024-09-26 15:44:33,120 - WARNING - Book with ID 8657 not found
+2024-09-26 15:44:33,124 - WARNING - Book with ID 8657 not found
+2024-09-26 15:44:33,130 - INFO - User 'User Name 8601' added
+2024-09-26 15:44:33,134 - INFO - User with ID 8601 deleted
+2024-09-26 15:44:33,135 - INFO - Deleted reviews by user 8601
+2024-09-26 15:44:33,137 - INFO - Deleted user with ID 8601 and their reading progress
+2024-09-26 15:44:33,495 - INFO - Book 'Book Title 7227' added successfully
+2024-09-26 15:44:33,505 - INFO - Book with ID 7227 deleted
+2024-09-26 15:44:33,514 - WARNING - Book with ID 7227 not found
+2024-09-26 15:44:33,522 - WARNING - Book with ID 7227 not found
+2024-09-26 15:44:33,528 - INFO - User 'User Name 6238' added
+2024-09-26 15:44:33,532 - INFO - User with ID 6238 deleted
+2024-09-26 15:44:33,534 - INFO - Deleted reviews by user 6238
+2024-09-26 15:44:33,536 - INFO - Deleted user with ID 6238 and their reading progress
+2024-09-26 15:44:33,740 - INFO - Book 'Book Title 3423' added successfully
+2024-09-26 15:44:33,745 - INFO - Book with ID 3423 deleted
+2024-09-26 15:44:33,750 - WARNING - Book with ID 3423 not found
+2024-09-26 15:44:33,754 - WARNING - Book with ID 3423 not found
+2024-09-26 15:44:33,757 - INFO - User 'User Name 9059' added
+2024-09-26 15:44:33,760 - INFO - User with ID 9059 deleted
+2024-09-26 15:44:33,761 - INFO - Deleted reviews by user 9059
+2024-09-26 15:44:33,762 - INFO - Deleted user with ID 9059 and their reading progress
+2024-09-26 15:44:33,946 - INFO - Book 'Book Title 5062' added successfully
+2024-09-26 15:44:33,955 - INFO - Book with ID 5062 deleted
+2024-09-26 15:44:33,964 - WARNING - Book with ID 5062 not found
+2024-09-26 15:44:33,970 - WARNING - Book with ID 5062 not found
+2024-09-26 15:44:33,974 - INFO - User 'User Name 4337' added
+2024-09-26 15:44:33,978 - INFO - User with ID 4337 deleted
+2024-09-26 15:44:33,979 - INFO - Deleted reviews by user 4337
+2024-09-26 15:44:33,981 - INFO - Deleted user with ID 4337 and their reading progress
+2024-09-26 15:44:34,150 - INFO - Book 'Book Title 1149' added successfully
+2024-09-26 15:44:34,159 - INFO - Book with ID 1149 deleted
+2024-09-26 15:44:34,167 - WARNING - Book with ID 1149 not found
+2024-09-26 15:44:34,173 - WARNING - Book with ID 1149 not found
+2024-09-26 15:44:34,178 - INFO - User 'User Name 4862' added
+2024-09-26 15:44:34,182 - INFO - User with ID 4862 deleted
+2024-09-26 15:44:34,184 - INFO - Deleted reviews by user 4862
+2024-09-26 15:44:34,186 - INFO - Deleted user with ID 4862 and their reading progress
+2024-09-26 15:44:34,360 - INFO - Book 'Book Title 3864' added successfully
+2024-09-26 15:44:34,369 - INFO - Book with ID 3864 deleted
+2024-09-26 15:44:34,378 - WARNING - Book with ID 3864 not found
+2024-09-26 15:44:34,384 - WARNING - Book with ID 3864 not found
+2024-09-26 15:44:34,390 - INFO - User 'User Name 1635' added
+2024-09-26 15:44:34,395 - INFO - User with ID 1635 deleted
+2024-09-26 15:44:34,396 - INFO - Deleted reviews by user 1635
+2024-09-26 15:44:34,398 - INFO - Deleted user with ID 1635 and their reading progress
+2024-09-26 15:44:34,558 - INFO - Book 'Book Title 5436' added successfully
+2024-09-26 15:44:34,568 - INFO - Book with ID 5436 deleted
+2024-09-26 15:44:34,578 - WARNING - Book with ID 5436 not found
+2024-09-26 15:44:34,583 - WARNING - Book with ID 5436 not found
+2024-09-26 15:44:34,589 - INFO - User 'User Name 1951' added
+2024-09-26 15:44:34,593 - INFO - User with ID 1951 deleted
+2024-09-26 15:44:34,594 - INFO - Deleted reviews by user 1951
+2024-09-26 15:44:34,595 - INFO - Deleted user with ID 1951 and their reading progress
+2024-09-26 15:44:34,772 - INFO - Book 'Book Title 1880' added successfully
+2024-09-26 15:44:34,776 - INFO - Book with ID 1880 deleted
+2024-09-26 15:44:34,779 - WARNING - Book with ID 1880 not found
+2024-09-26 15:44:34,782 - WARNING - Book with ID 1880 not found
+2024-09-26 15:44:34,786 - INFO - User 'User Name 7779' added
+2024-09-26 15:44:34,790 - INFO - User with ID 7779 deleted
+2024-09-26 15:44:34,791 - INFO - Deleted reviews by user 7779
+2024-09-26 15:44:34,792 - INFO - Deleted user with ID 7779 and their reading progress
+2024-09-26 15:44:34,993 - INFO - Book 'Book Title 3454' added successfully
+2024-09-26 15:44:34,996 - INFO - Book with ID 3454 deleted
+2024-09-26 15:44:34,999 - WARNING - Book with ID 3454 not found
+2024-09-26 15:44:35,002 - WARNING - Book with ID 3454 not found
+2024-09-26 15:44:35,006 - INFO - User 'User Name 4641' added
+2024-09-26 15:44:35,008 - INFO - User with ID 4641 deleted
+2024-09-26 15:44:35,009 - INFO - Deleted reviews by user 4641
+2024-09-26 15:44:35,010 - INFO - Deleted user with ID 4641 and their reading progress
+2024-09-26 15:44:35,196 - INFO - Book 'Book Title 3213' added successfully
+2024-09-26 15:44:35,199 - INFO - Book with ID 3213 deleted
+2024-09-26 15:44:35,201 - WARNING - Book with ID 3213 not found
+2024-09-26 15:44:35,204 - WARNING - Book with ID 3213 not found
+2024-09-26 15:44:35,208 - INFO - User 'User Name 1653' added
+2024-09-26 15:44:35,209 - INFO - User with ID 1653 deleted
+2024-09-26 15:44:35,210 - INFO - Deleted reviews by user 1653
+2024-09-26 15:44:35,211 - INFO - Deleted user with ID 1653 and their reading progress
+2024-09-26 15:44:35,419 - INFO - Book 'Book Title 5471' added successfully
+2024-09-26 15:44:35,428 - INFO - Book with ID 5471 deleted
+2024-09-26 15:44:35,437 - WARNING - Book with ID 5471 not found
+2024-09-26 15:44:35,443 - WARNING - Book with ID 5471 not found
+2024-09-26 15:44:35,449 - INFO - User 'User Name 6798' added
+2024-09-26 15:44:35,453 - INFO - User with ID 6798 deleted
+2024-09-26 15:44:35,454 - INFO - Deleted reviews by user 6798
+2024-09-26 15:44:35,457 - INFO - Deleted user with ID 6798 and their reading progress
+2024-09-26 15:44:35,606 - INFO - Book 'Book Title 2432' added successfully
+2024-09-26 15:44:35,614 - INFO - Book with ID 2432 deleted
+2024-09-26 15:44:35,623 - WARNING - Book with ID 2432 not found
+2024-09-26 15:44:35,629 - WARNING - Book with ID 2432 not found
+2024-09-26 15:44:35,636 - INFO - User 'User Name 2334' added
+2024-09-26 15:44:35,640 - INFO - User with ID 2334 deleted
+2024-09-26 15:44:35,641 - INFO - Deleted reviews by user 2334
+2024-09-26 15:44:35,642 - INFO - Deleted user with ID 2334 and their reading progress
+2024-09-26 15:44:35,809 - INFO - Book 'Book Title 5005' added successfully
+2024-09-26 15:44:35,817 - INFO - Book with ID 5005 deleted
+2024-09-26 15:44:35,826 - WARNING - Book with ID 5005 not found
+2024-09-26 15:44:35,831 - WARNING - Book with ID 5005 not found
+2024-09-26 15:44:35,837 - INFO - User 'User Name 6139' added
+2024-09-26 15:44:35,841 - INFO - User with ID 6139 deleted
+2024-09-26 15:44:35,842 - INFO - Deleted reviews by user 6139
+2024-09-26 15:44:35,844 - INFO - Deleted user with ID 6139 and their reading progress
+2024-09-26 15:44:36,030 - INFO - Book 'Book Title 4966' added successfully
+2024-09-26 15:44:36,040 - INFO - Book with ID 4966 deleted
+2024-09-26 15:44:36,046 - WARNING - Book with ID 4966 not found
+2024-09-26 15:44:36,048 - INFO - Book 'Book Title 9401' added successfully
+2024-09-26 15:44:36,053 - WARNING - Book with ID 4966 not found
+2024-09-26 15:44:36,055 - INFO - Book with ID 9401 deleted
+2024-09-26 15:44:36,057 - WARNING - Book with ID 9401 not found
+2024-09-26 15:44:36,059 - INFO - User 'User Name 5078' added
+2024-09-26 15:44:36,061 - WARNING - Book with ID 9401 not found
+2024-09-26 15:44:36,062 - INFO - User with ID 5078 deleted
+2024-09-26 15:44:36,063 - INFO - Deleted reviews by user 5078
+2024-09-26 15:44:36,065 - INFO - Deleted user with ID 5078 and their reading progress
+2024-09-26 15:44:36,067 - INFO - User 'User Name 9848' added
+2024-09-26 15:44:36,069 - INFO - User with ID 9848 deleted
+2024-09-26 15:44:36,070 - INFO - Deleted reviews by user 9848
+2024-09-26 15:44:36,071 - INFO - Deleted user with ID 9848 and their reading progress
+2024-09-26 15:44:36,227 - INFO - Book 'Book Title 9434' added successfully
+2024-09-26 15:44:36,236 - INFO - Book with ID 9434 deleted
+2024-09-26 15:44:36,244 - WARNING - Book with ID 9434 not found
+2024-09-26 15:44:36,250 - WARNING - Book with ID 9434 not found
+2024-09-26 15:44:36,256 - INFO - User 'User Name 7596' added
+2024-09-26 15:44:36,260 - INFO - User with ID 7596 deleted
+2024-09-26 15:44:36,260 - INFO - Deleted reviews by user 7596
+2024-09-26 15:44:36,262 - INFO - Deleted user with ID 7596 and their reading progress
+2024-09-26 15:44:36,479 - INFO - Book 'Book Title 9177' added successfully
+2024-09-26 15:44:36,487 - INFO - Book with ID 9177 deleted
+2024-09-26 15:44:36,493 - WARNING - Book with ID 9177 not found
+2024-09-26 15:44:36,497 - WARNING - Book with ID 9177 not found
+2024-09-26 15:44:36,504 - INFO - User 'User Name 6981' added
+2024-09-26 15:44:36,507 - INFO - User with ID 6981 deleted
+2024-09-26 15:44:36,508 - INFO - Deleted reviews by user 6981
+2024-09-26 15:44:36,510 - INFO - Deleted user with ID 6981 and their reading progress
+2024-09-26 15:44:36,663 - INFO - Book 'Book Title 3082' added successfully
+2024-09-26 15:44:36,673 - INFO - Book with ID 3082 deleted
+2024-09-26 15:44:36,683 - WARNING - Book with ID 3082 not found
+2024-09-26 15:44:36,692 - WARNING - Book with ID 3082 not found
+2024-09-26 15:44:36,705 - INFO - User 'User Name 5009' added
+2024-09-26 15:44:36,714 - INFO - User with ID 5009 deleted
+2024-09-26 15:44:36,718 - INFO - Deleted reviews by user 5009
+2024-09-26 15:44:36,723 - INFO - Deleted user with ID 5009 and their reading progress
+2024-09-26 15:44:36,863 - INFO - Book 'Book Title 7921' added successfully
+2024-09-26 15:44:36,873 - INFO - Book with ID 7921 deleted
+2024-09-26 15:44:36,882 - WARNING - Book with ID 7921 not found
+2024-09-26 15:44:36,892 - WARNING - Book with ID 7921 not found
+2024-09-26 15:44:36,904 - INFO - User 'User Name 1378' added
+2024-09-26 15:44:36,914 - INFO - User with ID 1378 deleted
+2024-09-26 15:44:36,919 - INFO - Deleted reviews by user 1378
+2024-09-26 15:44:36,926 - INFO - Deleted user with ID 1378 and their reading progress
+2024-09-26 15:44:37,075 - INFO - Book 'Book Title 9908' added successfully
+2024-09-26 15:44:37,079 - INFO - Book with ID 9908 deleted
+2024-09-26 15:44:37,081 - INFO - Book 'Book Title 2232' added successfully
+2024-09-26 15:44:37,084 - WARNING - Book with ID 9908 not found
+2024-09-26 15:44:37,086 - INFO - Book with ID 2232 deleted
+2024-09-26 15:44:37,089 - WARNING - Book with ID 2232 not found
+2024-09-26 15:44:37,090 - WARNING - Book with ID 9908 not found
+2024-09-26 15:44:37,092 - WARNING - Book with ID 2232 not found
+2024-09-26 15:44:37,094 - INFO - User 'User Name 8943' added
+2024-09-26 15:44:37,096 - INFO - User 'User Name 7535' added
+2024-09-26 15:44:37,097 - INFO - User with ID 8943 deleted
+2024-09-26 15:44:37,097 - INFO - Deleted reviews by user 8943
+2024-09-26 15:44:37,098 - INFO - User with ID 7535 deleted
+2024-09-26 15:44:37,098 - INFO - Deleted user with ID 8943 and their reading progress
+2024-09-26 15:44:37,100 - INFO - Deleted reviews by user 7535
+2024-09-26 15:44:37,101 - INFO - Deleted user with ID 7535 and their reading progress
+2024-09-26 15:44:37,280 - INFO - Book 'Book Title 7984' added successfully
+2024-09-26 15:44:37,283 - INFO - Book with ID 7984 deleted
+2024-09-26 15:44:37,286 - WARNING - Book with ID 7984 not found
+2024-09-26 15:44:37,289 - WARNING - Book with ID 7984 not found
+2024-09-26 15:44:37,293 - INFO - User 'User Name 5407' added
+2024-09-26 15:44:37,295 - INFO - User with ID 5407 deleted
+2024-09-26 15:44:37,297 - INFO - Deleted reviews by user 5407
+2024-09-26 15:44:37,299 - INFO - Deleted user with ID 5407 and their reading progress
+2024-09-26 15:44:37,532 - INFO - Book 'Book Title 3760' added successfully
+2024-09-26 15:44:37,541 - INFO - Book with ID 3760 deleted
+2024-09-26 15:44:37,549 - WARNING - Book with ID 3760 not found
+2024-09-26 15:44:37,559 - WARNING - Book with ID 3760 not found
+2024-09-26 15:44:37,571 - INFO - User 'User Name 3706' added
+2024-09-26 15:44:37,580 - INFO - User with ID 3706 deleted
+2024-09-26 15:44:37,585 - INFO - Deleted reviews by user 3706
+2024-09-26 15:44:37,590 - INFO - Deleted user with ID 3706 and their reading progress
+2024-09-26 15:44:37,689 - INFO - Book 'Book Title 4614' added successfully
+2024-09-26 15:44:37,693 - INFO - Book with ID 4614 deleted
+2024-09-26 15:44:37,697 - WARNING - Book with ID 4614 not found
+2024-09-26 15:44:37,703 - WARNING - Book with ID 4614 not found
+2024-09-26 15:44:37,708 - INFO - User 'User Name 2685' added
+2024-09-26 15:44:37,714 - INFO - User with ID 2685 deleted
+2024-09-26 15:44:37,717 - INFO - Deleted reviews by user 2685
+2024-09-26 15:44:37,719 - INFO - Deleted user with ID 2685 and their reading progress
+2024-09-26 15:44:37,745 - INFO - Book 'Book Title 8614' added successfully
+2024-09-26 15:44:37,751 - INFO - Book with ID 8614 deleted
+2024-09-26 15:44:37,756 - WARNING - Book with ID 8614 not found
+2024-09-26 15:44:37,760 - WARNING - Book with ID 8614 not found
+2024-09-26 15:44:37,766 - INFO - User 'User Name 5496' added
+2024-09-26 15:44:37,770 - INFO - User with ID 5496 deleted
+2024-09-26 15:44:37,773 - INFO - Deleted reviews by user 5496
+2024-09-26 15:44:37,775 - INFO - Deleted user with ID 5496 and their reading progress
+2024-09-26 15:44:37,951 - INFO - Book 'Book Title 2479' added successfully
+2024-09-26 15:44:37,959 - INFO - Book with ID 2479 deleted
+2024-09-26 15:44:37,969 - WARNING - Book with ID 2479 not found
+2024-09-26 15:44:37,977 - WARNING - Book with ID 2479 not found
+2024-09-26 15:44:37,989 - INFO - User 'User Name 7748' added
+2024-09-26 15:44:37,998 - INFO - User with ID 7748 deleted
+2024-09-26 15:44:38,002 - INFO - Deleted reviews by user 7748
+2024-09-26 15:44:38,005 - INFO - Deleted user with ID 7748 and their reading progress
+2024-09-26 15:44:38,125 - INFO - Book 'Book Title 2612' added successfully
+2024-09-26 15:44:38,130 - INFO - Book 'Book Title 2424' added successfully
+2024-09-26 15:44:38,139 - INFO - Book with ID 2612 deleted
+2024-09-26 15:44:38,144 - INFO - Book with ID 2424 deleted
+2024-09-26 15:44:38,153 - WARNING - Book with ID 2612 not found
+2024-09-26 15:44:38,157 - WARNING - Book with ID 2424 not found
+2024-09-26 15:44:38,167 - WARNING - Book with ID 2612 not found
+2024-09-26 15:44:38,171 - WARNING - Book with ID 2424 not found
+2024-09-26 15:44:38,186 - INFO - User 'User Name 7858' added
+2024-09-26 15:44:38,189 - INFO - User 'User Name 8889' added
+2024-09-26 15:44:38,194 - INFO - User with ID 7858 deleted
+2024-09-26 15:44:38,195 - INFO - User with ID 8889 deleted
+2024-09-26 15:44:38,197 - INFO - Deleted reviews by user 7858
+2024-09-26 15:44:38,198 - INFO - Deleted reviews by user 8889
+2024-09-26 15:44:38,200 - INFO - Deleted user with ID 7858 and their reading progress
+2024-09-26 15:44:38,202 - INFO - Deleted user with ID 8889 and their reading progress
+2024-09-26 15:44:38,309 - INFO - Book 'Book Title 3304' added successfully
+2024-09-26 15:44:38,318 - INFO - Book with ID 3304 deleted
+2024-09-26 15:44:38,327 - WARNING - Book with ID 3304 not found
+2024-09-26 15:44:38,335 - WARNING - Book with ID 3304 not found
+2024-09-26 15:44:38,348 - INFO - User 'User Name 4671' added
+2024-09-26 15:44:38,367 - INFO - User with ID 4671 deleted
+2024-09-26 15:44:38,371 - INFO - Deleted reviews by user 4671
+2024-09-26 15:44:38,374 - INFO - Deleted user with ID 4671 and their reading progress
+2024-09-26 15:44:38,608 - INFO - Book 'Book Title 1276' added successfully
+2024-09-26 15:44:38,617 - INFO - Book with ID 1276 deleted
+2024-09-26 15:44:38,625 - WARNING - Book with ID 1276 not found
+2024-09-26 15:44:38,635 - WARNING - Book with ID 1276 not found
+2024-09-26 15:44:38,647 - INFO - User 'User Name 8767' added
+2024-09-26 15:44:38,657 - INFO - User with ID 8767 deleted
+2024-09-26 15:44:38,661 - INFO - Deleted reviews by user 8767
+2024-09-26 15:44:38,665 - INFO - Deleted user with ID 8767 and their reading progress
+2024-09-26 15:44:38,731 - INFO - Book 'Book Title 4460' added successfully
+2024-09-26 15:44:38,739 - INFO - Book with ID 4460 deleted
+2024-09-26 15:44:38,747 - WARNING - Book with ID 4460 not found
+2024-09-26 15:44:38,756 - WARNING - Book with ID 4460 not found
+2024-09-26 15:44:38,763 - INFO - User 'User Name 6474' added
+2024-09-26 15:44:38,768 - INFO - User with ID 6474 deleted
+2024-09-26 15:44:38,770 - INFO - Deleted reviews by user 6474
+2024-09-26 15:44:38,773 - INFO - Deleted user with ID 6474 and their reading progress
+2024-09-26 15:44:38,788 - INFO - Book 'Book Title 8716' added successfully
+2024-09-26 15:44:38,791 - INFO - Book with ID 8716 deleted
+2024-09-26 15:44:38,794 - WARNING - Book with ID 8716 not found
+2024-09-26 15:44:38,796 - WARNING - Book with ID 8716 not found
+2024-09-26 15:44:38,799 - INFO - User 'User Name 7550' added
+2024-09-26 15:44:38,802 - INFO - User with ID 7550 deleted
+2024-09-26 15:44:38,805 - INFO - Deleted reviews by user 7550
+2024-09-26 15:44:38,806 - INFO - Deleted user with ID 7550 and their reading progress
+2024-09-26 15:44:39,027 - INFO - Book 'Book Title 1510' added successfully
+2024-09-26 15:44:39,035 - INFO - Book with ID 1510 deleted
+2024-09-26 15:44:39,044 - WARNING - Book with ID 1510 not found
+2024-09-26 15:44:39,049 - WARNING - Book with ID 1510 not found
+2024-09-26 15:44:39,055 - INFO - User 'User Name 9786' added
+2024-09-26 15:44:39,059 - INFO - User with ID 9786 deleted
+2024-09-26 15:44:39,059 - INFO - Deleted reviews by user 9786
+2024-09-26 15:44:39,061 - INFO - Deleted user with ID 9786 and their reading progress
+2024-09-26 15:44:39,214 - INFO - Book 'Book Title 9625' added successfully
+2024-09-26 15:44:39,219 - INFO - Book 'Book Title 8655' added successfully
+2024-09-26 15:44:39,227 - INFO - Book with ID 9625 deleted
+2024-09-26 15:44:39,229 - INFO - Book with ID 8655 deleted
+2024-09-26 15:44:39,235 - WARNING - Book with ID 9625 not found
+2024-09-26 15:44:39,238 - WARNING - Book with ID 8655 not found
+2024-09-26 15:44:39,241 - WARNING - Book with ID 9625 not found
+2024-09-26 15:44:39,243 - WARNING - Book with ID 8655 not found
+2024-09-26 15:44:39,248 - INFO - User 'User Name 8268' added
+2024-09-26 15:44:39,250 - INFO - User 'User Name 5357' added
+2024-09-26 15:44:39,253 - INFO - User with ID 8268 deleted
+2024-09-26 15:44:39,254 - INFO - User with ID 5357 deleted
+2024-09-26 15:44:39,256 - INFO - Deleted reviews by user 8268
+2024-09-26 15:44:39,257 - INFO - Deleted reviews by user 5357
+2024-09-26 15:44:39,258 - INFO - Deleted user with ID 8268 and their reading progress
+2024-09-26 15:44:39,259 - INFO - Deleted user with ID 5357 and their reading progress
+2024-09-26 15:44:39,348 - INFO - Book 'Book Title 3148' added successfully
+2024-09-26 15:44:39,350 - INFO - Book with ID 3148 deleted
+2024-09-26 15:44:39,352 - WARNING - Book with ID 3148 not found
+2024-09-26 15:44:39,354 - WARNING - Book with ID 3148 not found
+2024-09-26 15:44:39,358 - INFO - User 'User Name 4712' added
+2024-09-26 15:44:39,360 - INFO - User with ID 4712 deleted
+2024-09-26 15:44:39,361 - INFO - Deleted reviews by user 4712
+2024-09-26 15:44:39,362 - INFO - Deleted user with ID 4712 and their reading progress
+2024-09-26 15:44:39,393 - INFO - Book 'Book Title 7407' added successfully
+2024-09-26 15:44:39,395 - INFO - Book with ID 7407 deleted
+2024-09-26 15:44:39,398 - WARNING - Book with ID 7407 not found
+2024-09-26 15:44:39,401 - WARNING - Book with ID 7407 not found
+2024-09-26 15:44:39,404 - INFO - User 'User Name 4090' added
+2024-09-26 15:44:39,406 - INFO - User with ID 4090 deleted
+2024-09-26 15:44:39,408 - INFO - Deleted reviews by user 4090
+2024-09-26 15:44:39,409 - INFO - Deleted user with ID 4090 and their reading progress
+2024-09-26 15:44:39,673 - INFO - Book 'Book Title 1196' added successfully
+2024-09-26 15:44:39,678 - INFO - Book with ID 1196 deleted
+2024-09-26 15:44:39,683 - WARNING - Book with ID 1196 not found
+2024-09-26 15:44:39,687 - WARNING - Book with ID 1196 not found
+2024-09-26 15:44:39,693 - INFO - User 'User Name 9994' added
+2024-09-26 15:44:39,696 - INFO - User with ID 9994 deleted
+2024-09-26 15:44:39,699 - INFO - Deleted reviews by user 9994
+2024-09-26 15:44:39,701 - INFO - Deleted user with ID 9994 and their reading progress
+2024-09-26 15:44:39,788 - INFO - Book 'Book Title 6858' added successfully
+2024-09-26 15:44:39,792 - INFO - Book with ID 6858 deleted
+2024-09-26 15:44:39,796 - WARNING - Book with ID 6858 not found
+2024-09-26 15:44:39,800 - WARNING - Book with ID 6858 not found
+2024-09-26 15:44:39,805 - INFO - User 'User Name 8383' added
+2024-09-26 15:44:39,809 - INFO - User with ID 8383 deleted
+2024-09-26 15:44:39,810 - INFO - Book 'Book Title 7506' added successfully
+2024-09-26 15:44:39,812 - INFO - Deleted reviews by user 8383
+2024-09-26 15:44:39,812 - INFO - Deleted user with ID 8383 and their reading progress
+2024-09-26 15:44:39,814 - INFO - Book with ID 7506 deleted
+2024-09-26 15:44:39,816 - WARNING - Book with ID 7506 not found
+2024-09-26 15:44:39,818 - WARNING - Book with ID 7506 not found
+2024-09-26 15:44:39,821 - INFO - User 'User Name 6083' added
+2024-09-26 15:44:39,823 - INFO - User with ID 6083 deleted
+2024-09-26 15:44:39,824 - INFO - Deleted reviews by user 6083
+2024-09-26 15:44:39,825 - INFO - Deleted user with ID 6083 and their reading progress
+2024-09-26 15:44:40,078 - INFO - Book 'Book Title 2923' added successfully
+2024-09-26 15:44:40,088 - INFO - Book with ID 2923 deleted
+2024-09-26 15:44:40,094 - WARNING - Book with ID 2923 not found
+2024-09-26 15:44:40,098 - WARNING - Book with ID 2923 not found
+2024-09-26 15:44:40,104 - INFO - User 'User Name 2325' added
+2024-09-26 15:44:40,108 - INFO - User with ID 2325 deleted
+2024-09-26 15:44:40,109 - INFO - Deleted reviews by user 2325
+2024-09-26 15:44:40,111 - INFO - Deleted user with ID 2325 and their reading progress
+2024-09-26 15:44:40,281 - INFO - Book 'Book Title 7566' added successfully
+2024-09-26 15:44:40,284 - INFO - Book 'Book Title 1240' added successfully
+2024-09-26 15:44:40,291 - INFO - Book with ID 7566 deleted
+2024-09-26 15:44:40,295 - INFO - Book with ID 1240 deleted
+2024-09-26 15:44:40,299 - WARNING - Book with ID 7566 not found
+2024-09-26 15:44:40,301 - WARNING - Book with ID 1240 not found
+2024-09-26 15:44:40,306 - WARNING - Book with ID 7566 not found
+2024-09-26 15:44:40,308 - WARNING - Book with ID 1240 not found
+2024-09-26 15:44:40,312 - INFO - User 'User Name 5655' added
+2024-09-26 15:44:40,314 - INFO - User 'User Name 5348' added
+2024-09-26 15:44:40,317 - INFO - User with ID 5655 deleted
+2024-09-26 15:44:40,318 - INFO - User with ID 5348 deleted
+2024-09-26 15:44:40,319 - INFO - Deleted reviews by user 5655
+2024-09-26 15:44:40,319 - INFO - Deleted reviews by user 5348
+2024-09-26 15:44:40,320 - INFO - Deleted user with ID 5655 and their reading progress
+2024-09-26 15:44:40,322 - INFO - Deleted user with ID 5348 and their reading progress
+2024-09-26 15:44:40,370 - INFO - Book 'Book Title 3305' added successfully
+2024-09-26 15:44:40,373 - INFO - Book with ID 3305 deleted
+2024-09-26 15:44:40,377 - WARNING - Book with ID 3305 not found
+2024-09-26 15:44:40,380 - WARNING - Book with ID 3305 not found
+2024-09-26 15:44:40,386 - INFO - User 'User Name 2069' added
+2024-09-26 15:44:40,389 - INFO - User with ID 2069 deleted
+2024-09-26 15:44:40,390 - INFO - Deleted reviews by user 2069
+2024-09-26 15:44:40,391 - INFO - Deleted user with ID 2069 and their reading progress
+2024-09-26 15:44:40,416 - INFO - Book 'Book Title 4913' added successfully
+2024-09-26 15:44:40,420 - INFO - Book with ID 4913 deleted
+2024-09-26 15:44:40,423 - WARNING - Book with ID 4913 not found
+2024-09-26 15:44:40,425 - WARNING - Book with ID 4913 not found
+2024-09-26 15:44:40,428 - INFO - User 'User Name 6805' added
+2024-09-26 15:44:40,431 - INFO - User with ID 6805 deleted
+2024-09-26 15:44:40,433 - INFO - Deleted reviews by user 6805
+2024-09-26 15:44:40,434 - INFO - Deleted user with ID 6805 and their reading progress
+2024-09-26 15:44:40,717 - INFO - Book 'Book Title 9249' added successfully
+2024-09-26 15:44:40,726 - INFO - Book with ID 9249 deleted
+2024-09-26 15:44:40,733 - WARNING - Book with ID 9249 not found
+2024-09-26 15:44:40,738 - WARNING - Book with ID 9249 not found
+2024-09-26 15:44:40,744 - INFO - User 'User Name 2874' added
+2024-09-26 15:44:40,747 - INFO - User with ID 2874 deleted
+2024-09-26 15:44:40,748 - INFO - Deleted reviews by user 2874
+2024-09-26 15:44:40,750 - INFO - Deleted user with ID 2874 and their reading progress
+2024-09-26 15:44:40,825 - INFO - Book 'Book Title 3936' added successfully
+2024-09-26 15:44:40,834 - INFO - Book with ID 3936 deleted
+2024-09-26 15:44:40,838 - INFO - Book 'Book Title 8076' added successfully
+2024-09-26 15:44:40,841 - WARNING - Book with ID 3936 not found
+2024-09-26 15:44:40,844 - INFO - Book with ID 8076 deleted
+2024-09-26 15:44:40,846 - WARNING - Book with ID 3936 not found
+2024-09-26 15:44:40,849 - WARNING - Book with ID 8076 not found
+2024-09-26 15:44:40,852 - INFO - User 'User Name 8864' added
+2024-09-26 15:44:40,853 - WARNING - Book with ID 8076 not found
+2024-09-26 15:44:40,855 - INFO - User with ID 8864 deleted
+2024-09-26 15:44:40,857 - INFO - Deleted reviews by user 8864
+2024-09-26 15:44:40,857 - INFO - User 'User Name 4948' added
+2024-09-26 15:44:40,858 - INFO - Deleted user with ID 8864 and their reading progress
+2024-09-26 15:44:40,860 - INFO - User with ID 4948 deleted
+2024-09-26 15:44:40,861 - INFO - Deleted reviews by user 4948
+2024-09-26 15:44:40,862 - INFO - Deleted user with ID 4948 and their reading progress
+2024-09-26 15:44:41,024 - INFO - Book 'Book Title 9193' added successfully
+2024-09-26 15:44:41,032 - INFO - Book with ID 9193 deleted
+2024-09-26 15:44:41,038 - WARNING - Book with ID 9193 not found
+2024-09-26 15:44:41,044 - WARNING - Book with ID 9193 not found
+2024-09-26 15:44:41,051 - INFO - User 'User Name 2487' added
+2024-09-26 15:44:41,055 - INFO - User with ID 2487 deleted
+2024-09-26 15:44:41,057 - INFO - Deleted reviews by user 2487
+2024-09-26 15:44:41,059 - INFO - Deleted user with ID 2487 and their reading progress
+2024-09-26 15:44:41,119 - INFO - Book 'Book Title 1377' added successfully
+2024-09-26 15:44:41,123 - INFO - Book with ID 1377 deleted
+2024-09-26 15:44:41,127 - WARNING - Book with ID 1377 not found
+2024-09-26 15:44:41,130 - WARNING - Book with ID 1377 not found
+2024-09-26 15:44:41,135 - INFO - User 'User Name 7508' added
+2024-09-26 15:44:41,139 - INFO - User with ID 7508 deleted
+2024-09-26 15:44:41,141 - INFO - Deleted reviews by user 7508
+2024-09-26 15:44:41,143 - INFO - Deleted user with ID 7508 and their reading progress
+2024-09-26 15:44:41,344 - INFO - Book 'Book Title 9853' added successfully
+2024-09-26 15:44:41,348 - INFO - Book 'Book Title 8166' added successfully
+2024-09-26 15:44:41,353 - INFO - Book with ID 9853 deleted
+2024-09-26 15:44:41,356 - INFO - Book with ID 8166 deleted
+2024-09-26 15:44:41,360 - WARNING - Book with ID 9853 not found
+2024-09-26 15:44:41,362 - WARNING - Book with ID 8166 not found
+2024-09-26 15:44:41,365 - WARNING - Book with ID 9853 not found
+2024-09-26 15:44:41,368 - WARNING - Book with ID 8166 not found
+2024-09-26 15:44:41,372 - INFO - User 'User Name 9392' added
+2024-09-26 15:44:41,374 - INFO - User 'User Name 7465' added
+2024-09-26 15:44:41,376 - INFO - User with ID 7465 deleted
+2024-09-26 15:44:41,376 - INFO - User with ID 9392 deleted
+2024-09-26 15:44:41,377 - INFO - Deleted reviews by user 7465
+2024-09-26 15:44:41,377 - INFO - Deleted reviews by user 9392
+2024-09-26 15:44:41,378 - INFO - Deleted user with ID 7465 and their reading progress
+2024-09-26 15:44:41,380 - INFO - Deleted user with ID 9392 and their reading progress
+2024-09-26 15:44:41,399 - INFO - Book 'Book Title 7353' added successfully
+2024-09-26 15:44:41,402 - INFO - Book with ID 7353 deleted
+2024-09-26 15:44:41,405 - WARNING - Book with ID 7353 not found
+2024-09-26 15:44:41,407 - WARNING - Book with ID 7353 not found
+2024-09-26 15:44:41,410 - INFO - User 'User Name 8419' added
+2024-09-26 15:44:41,413 - INFO - User with ID 8419 deleted
+2024-09-26 15:44:41,414 - INFO - Deleted reviews by user 8419
+2024-09-26 15:44:41,415 - INFO - Deleted user with ID 8419 and their reading progress
+2024-09-26 15:44:41,446 - INFO - Book 'Book Title 3754' added successfully
+2024-09-26 15:44:41,449 - INFO - Book with ID 3754 deleted
+2024-09-26 15:44:41,452 - WARNING - Book with ID 3754 not found
+2024-09-26 15:44:41,454 - WARNING - Book with ID 3754 not found
+2024-09-26 15:44:41,458 - INFO - User 'User Name 2834' added
+2024-09-26 15:44:41,461 - INFO - User with ID 2834 deleted
+2024-09-26 15:44:41,462 - INFO - Deleted reviews by user 2834
+2024-09-26 15:44:41,463 - INFO - Deleted user with ID 2834 and their reading progress
+2024-09-26 15:44:41,762 - INFO - Book 'Book Title 6331' added successfully
+2024-09-26 15:44:41,768 - INFO - Book with ID 6331 deleted
+2024-09-26 15:44:41,772 - WARNING - Book with ID 6331 not found
+2024-09-26 15:44:41,775 - WARNING - Book with ID 6331 not found
+2024-09-26 15:44:41,779 - INFO - User 'User Name 1341' added
+2024-09-26 15:44:41,781 - INFO - User with ID 1341 deleted
+2024-09-26 15:44:41,783 - INFO - Deleted reviews by user 1341
+2024-09-26 15:44:41,784 - INFO - Deleted user with ID 1341 and their reading progress
+2024-09-26 15:44:41,872 - INFO - Book 'Book Title 1029' added successfully
+2024-09-26 15:44:41,873 - INFO - Book 'Book Title 8810' added successfully
+2024-09-26 15:44:41,876 - INFO - Book with ID 1029 deleted
+2024-09-26 15:44:41,877 - INFO - Book with ID 8810 deleted
+2024-09-26 15:44:41,880 - WARNING - Book with ID 1029 not found
+2024-09-26 15:44:41,881 - WARNING - Book with ID 8810 not found
+2024-09-26 15:44:41,882 - WARNING - Book with ID 1029 not found
+2024-09-26 15:44:41,884 - WARNING - Book with ID 8810 not found
+2024-09-26 15:44:41,888 - INFO - User 'User Name 9851' added
+2024-09-26 15:44:41,889 - INFO - User 'User Name 3283' added
+2024-09-26 15:44:41,891 - INFO - User with ID 9851 deleted
+2024-09-26 15:44:41,892 - INFO - User with ID 3283 deleted
+2024-09-26 15:44:41,892 - INFO - Deleted reviews by user 9851
+2024-09-26 15:44:41,893 - INFO - Deleted reviews by user 3283
+2024-09-26 15:44:41,893 - INFO - Deleted user with ID 9851 and their reading progress
+2024-09-26 15:44:41,894 - INFO - Deleted user with ID 3283 and their reading progress
+2024-09-26 15:44:42,077 - INFO - Book 'Book Title 6081' added successfully
+2024-09-26 15:44:42,082 - INFO - Book with ID 6081 deleted
+2024-09-26 15:44:42,085 - WARNING - Book with ID 6081 not found
+2024-09-26 15:44:42,089 - WARNING - Book with ID 6081 not found
+2024-09-26 15:44:42,093 - INFO - User 'User Name 6553' added
+2024-09-26 15:44:42,097 - INFO - User with ID 6553 deleted
+2024-09-26 15:44:42,098 - INFO - Deleted reviews by user 6553
+2024-09-26 15:44:42,100 - INFO - Deleted user with ID 6553 and their reading progress
+2024-09-26 15:44:42,154 - INFO - Book 'Book Title 7193' added successfully
+2024-09-26 15:44:42,156 - INFO - Book with ID 7193 deleted
+2024-09-26 15:44:42,159 - WARNING - Book with ID 7193 not found
+2024-09-26 15:44:42,162 - WARNING - Book with ID 7193 not found
+2024-09-26 15:44:42,164 - INFO - User 'User Name 5852' added
+2024-09-26 15:44:42,168 - INFO - User with ID 5852 deleted
+2024-09-26 15:44:42,170 - INFO - Deleted reviews by user 5852
+2024-09-26 15:44:42,171 - INFO - Deleted user with ID 5852 and their reading progress
+2024-09-26 15:44:42,397 - INFO - Book 'Book Title 5190' added successfully
+2024-09-26 15:44:42,401 - INFO - Book 'Book Title 6768' added successfully
+2024-09-26 15:44:42,406 - INFO - Book with ID 5190 deleted
+2024-09-26 15:44:42,409 - INFO - Book with ID 6768 deleted
+2024-09-26 15:44:42,412 - WARNING - Book with ID 5190 not found
+2024-09-26 15:44:42,415 - WARNING - Book with ID 6768 not found
+2024-09-26 15:44:42,420 - WARNING - Book with ID 5190 not found
+2024-09-26 15:44:42,422 - INFO - Book 'Book Title 7305' added successfully
+2024-09-26 15:44:42,426 - WARNING - Book with ID 6768 not found
+2024-09-26 15:44:42,428 - INFO - Book with ID 7305 deleted
+2024-09-26 15:44:42,429 - INFO - User 'User Name 4547' added
+2024-09-26 15:44:42,432 - WARNING - Book with ID 7305 not found
+2024-09-26 15:44:42,433 - INFO - User with ID 4547 deleted
+2024-09-26 15:44:42,434 - INFO - User 'User Name 2084' added
+2024-09-26 15:44:42,436 - INFO - Deleted reviews by user 4547
+2024-09-26 15:44:42,436 - WARNING - Book with ID 7305 not found
+2024-09-26 15:44:42,437 - INFO - Deleted user with ID 4547 and their reading progress
+2024-09-26 15:44:42,439 - INFO - User with ID 2084 deleted
+2024-09-26 15:44:42,440 - INFO - Deleted reviews by user 2084
+2024-09-26 15:44:42,441 - INFO - User 'User Name 6342' added
+2024-09-26 15:44:42,442 - INFO - Deleted user with ID 2084 and their reading progress
+2024-09-26 15:44:42,443 - INFO - User with ID 6342 deleted
+2024-09-26 15:44:42,444 - INFO - Deleted reviews by user 6342
+2024-09-26 15:44:42,445 - INFO - Deleted user with ID 6342 and their reading progress
+2024-09-26 15:44:42,481 - INFO - Book 'Book Title 1998' added successfully
+2024-09-26 15:44:42,484 - INFO - Book with ID 1998 deleted
+2024-09-26 15:44:42,487 - WARNING - Book with ID 1998 not found
+2024-09-26 15:44:42,489 - WARNING - Book with ID 1998 not found
+2024-09-26 15:44:42,493 - INFO - User 'User Name 8041' added
+2024-09-26 15:44:42,495 - INFO - User with ID 8041 deleted
+2024-09-26 15:44:42,497 - INFO - Deleted reviews by user 8041
+2024-09-26 15:44:42,498 - INFO - Deleted user with ID 8041 and their reading progress
+2024-09-26 15:44:42,697 - INFO - Book 'Book Title 9605' added successfully
+2024-09-26 15:44:42,706 - INFO - Book with ID 9605 deleted
+2024-09-26 15:44:42,714 - WARNING - Book with ID 9605 not found
+2024-09-26 15:44:42,720 - WARNING - Book with ID 9605 not found
+2024-09-26 15:44:42,724 - INFO - User 'User Name 4372' added
+2024-09-26 15:44:42,728 - INFO - User with ID 4372 deleted
+2024-09-26 15:44:42,729 - INFO - Deleted reviews by user 4372
+2024-09-26 15:44:42,730 - INFO - Deleted user with ID 4372 and their reading progress
+2024-09-26 15:44:42,795 - INFO - Book 'Book Title 2403' added successfully
+2024-09-26 15:44:42,800 - INFO - Book with ID 2403 deleted
+2024-09-26 15:44:42,805 - WARNING - Book with ID 2403 not found
+2024-09-26 15:44:42,809 - WARNING - Book with ID 2403 not found
+2024-09-26 15:44:42,815 - INFO - User 'User Name 9040' added
+2024-09-26 15:44:42,819 - INFO - User with ID 9040 deleted
+2024-09-26 15:44:42,821 - INFO - Deleted reviews by user 9040
+2024-09-26 15:44:42,824 - INFO - Deleted user with ID 9040 and their reading progress
+2024-09-26 15:44:42,906 - INFO - Book 'Book Title 7146' added successfully
+2024-09-26 15:44:42,908 - INFO - Book 'Book Title 2386' added successfully
+2024-09-26 15:44:42,912 - INFO - Book with ID 7146 deleted
+2024-09-26 15:44:42,914 - INFO - Book with ID 2386 deleted
+2024-09-26 15:44:42,918 - WARNING - Book with ID 7146 not found
+2024-09-26 15:44:42,920 - WARNING - Book with ID 2386 not found
+2024-09-26 15:44:42,924 - WARNING - Book with ID 7146 not found
+2024-09-26 15:44:42,926 - WARNING - Book with ID 2386 not found
+2024-09-26 15:44:42,930 - INFO - User 'User Name 5899' added
+2024-09-26 15:44:42,931 - INFO - User 'User Name 5014' added
+2024-09-26 15:44:42,933 - INFO - User with ID 5899 deleted
+2024-09-26 15:44:42,933 - INFO - User with ID 5014 deleted
+2024-09-26 15:44:42,934 - INFO - Deleted reviews by user 5899
+2024-09-26 15:44:42,935 - INFO - Deleted reviews by user 5014
+2024-09-26 15:44:42,935 - INFO - Deleted user with ID 5899 and their reading progress
+2024-09-26 15:44:42,937 - INFO - Deleted user with ID 5014 and their reading progress
+2024-09-26 15:44:43,111 - INFO - Book 'Book Title 3418' added successfully
+2024-09-26 15:44:43,120 - INFO - Book with ID 3418 deleted
+2024-09-26 15:44:43,127 - WARNING - Book with ID 3418 not found
+2024-09-26 15:44:43,133 - WARNING - Book with ID 3418 not found
+2024-09-26 15:44:43,141 - INFO - User 'User Name 5945' added
+2024-09-26 15:44:43,147 - INFO - User with ID 5945 deleted
+2024-09-26 15:44:43,149 - INFO - Deleted reviews by user 5945
+2024-09-26 15:44:43,152 - INFO - Deleted user with ID 5945 and their reading progress
+2024-09-26 15:44:43,185 - INFO - Book 'Book Title 7132' added successfully
+2024-09-26 15:44:43,189 - INFO - Book with ID 7132 deleted
+2024-09-26 15:44:43,192 - WARNING - Book with ID 7132 not found
+2024-09-26 15:44:43,195 - WARNING - Book with ID 7132 not found
+2024-09-26 15:44:43,198 - INFO - User 'User Name 9241' added
+2024-09-26 15:44:43,201 - INFO - User with ID 9241 deleted
+2024-09-26 15:44:43,202 - INFO - Deleted reviews by user 9241
+2024-09-26 15:44:43,203 - INFO - Deleted user with ID 9241 and their reading progress
+2024-09-26 15:44:43,455 - INFO - Book 'Book Title 1276' added successfully
+2024-09-26 15:44:43,457 - INFO - Book 'Book Title 4545' added successfully
+2024-09-26 15:44:43,457 - INFO - Book 'Book Title 5942' added successfully
+2024-09-26 15:44:43,459 - INFO - Book with ID 1276 deleted
+2024-09-26 15:44:43,460 - INFO - Book with ID 4545 deleted
+2024-09-26 15:44:43,461 - INFO - Book with ID 5942 deleted
+2024-09-26 15:44:43,463 - WARNING - Book with ID 4545 not found
+2024-09-26 15:44:43,464 - WARNING - Book with ID 1276 not found
+2024-09-26 15:44:43,465 - WARNING - Book with ID 5942 not found
+2024-09-26 15:44:43,469 - WARNING - Book with ID 4545 not found
+2024-09-26 15:44:43,470 - WARNING - Book with ID 1276 not found
+2024-09-26 15:44:43,471 - WARNING - Book with ID 5942 not found
+2024-09-26 15:44:43,474 - INFO - User 'User Name 4643' added
+2024-09-26 15:44:43,476 - INFO - User 'User Name 6711' added
+2024-09-26 15:44:43,477 - INFO - User 'User Name 7368' added
+2024-09-26 15:44:43,478 - INFO - User with ID 4643 deleted
+2024-09-26 15:44:43,479 - INFO - User with ID 6711 deleted
+2024-09-26 15:44:43,479 - INFO - User with ID 7368 deleted
+2024-09-26 15:44:43,480 - INFO - Deleted reviews by user 4643
+2024-09-26 15:44:43,480 - INFO - Deleted reviews by user 6711
+2024-09-26 15:44:43,480 - INFO - Deleted reviews by user 7368
+2024-09-26 15:44:43,481 - INFO - Deleted user with ID 4643 and their reading progress
+2024-09-26 15:44:43,482 - INFO - Deleted user with ID 6711 and their reading progress
+2024-09-26 15:44:43,484 - INFO - Deleted user with ID 7368 and their reading progress
+2024-09-26 15:44:43,515 - INFO - Book 'Book Title 4922' added successfully
+2024-09-26 15:44:43,518 - INFO - Book with ID 4922 deleted
+2024-09-26 15:44:43,521 - WARNING - Book with ID 4922 not found
+2024-09-26 15:44:43,523 - WARNING - Book with ID 4922 not found
+2024-09-26 15:44:43,526 - INFO - User 'User Name 5647' added
+2024-09-26 15:44:43,528 - INFO - User with ID 5647 deleted
+2024-09-26 15:44:43,530 - INFO - Deleted reviews by user 5647
+2024-09-26 15:44:43,531 - INFO - Deleted user with ID 5647 and their reading progress
+2024-09-26 15:44:43,735 - INFO - Book 'Book Title 9664' added successfully
+2024-09-26 15:44:43,739 - INFO - Book with ID 9664 deleted
+2024-09-26 15:44:43,741 - WARNING - Book with ID 9664 not found
+2024-09-26 15:44:43,743 - WARNING - Book with ID 9664 not found
+2024-09-26 15:44:43,746 - INFO - User 'User Name 9084' added
+2024-09-26 15:44:43,748 - INFO - User with ID 9084 deleted
+2024-09-26 15:44:43,751 - INFO - Deleted reviews by user 9084
+2024-09-26 15:44:43,753 - INFO - Deleted user with ID 9084 and their reading progress
+2024-09-26 15:44:43,830 - INFO - Book 'Book Title 6472' added successfully
+2024-09-26 15:44:43,831 - INFO - Book with ID 6472 deleted
+2024-09-26 15:44:43,833 - WARNING - Book with ID 6472 not found
+2024-09-26 15:44:43,836 - WARNING - Book with ID 6472 not found
+2024-09-26 15:44:43,839 - INFO - User 'User Name 5191' added
+2024-09-26 15:44:43,841 - INFO - User with ID 5191 deleted
+2024-09-26 15:44:43,843 - INFO - Deleted reviews by user 5191
+2024-09-26 15:44:43,843 - INFO - Deleted user with ID 5191 and their reading progress
+2024-09-26 15:44:43,954 - INFO - Book 'Book Title 3581' added successfully
+2024-09-26 15:44:43,955 - INFO - Book 'Book Title 9389' added successfully
+2024-09-26 15:44:43,957 - INFO - Book with ID 3581 deleted
+2024-09-26 15:44:43,957 - INFO - Book with ID 9389 deleted
+2024-09-26 15:44:43,961 - WARNING - Book with ID 3581 not found
+2024-09-26 15:44:43,962 - WARNING - Book with ID 9389 not found
+2024-09-26 15:44:43,964 - WARNING - Book with ID 3581 not found
+2024-09-26 15:44:43,965 - WARNING - Book with ID 9389 not found
+2024-09-26 15:44:43,970 - INFO - User 'User Name 2228' added
+2024-09-26 15:44:43,972 - INFO - User 'User Name 9752' added
+2024-09-26 15:44:43,975 - INFO - User with ID 2228 deleted
+2024-09-26 15:44:43,975 - INFO - User with ID 9752 deleted
+2024-09-26 15:44:43,976 - INFO - Deleted reviews by user 2228
+2024-09-26 15:44:43,976 - INFO - Deleted reviews by user 9752
+2024-09-26 15:44:43,977 - INFO - Deleted user with ID 2228 and their reading progress
+2024-09-26 15:44:43,978 - INFO - Deleted user with ID 9752 and their reading progress
+2024-09-26 15:44:44,171 - INFO - Book 'Book Title 6786' added successfully
+2024-09-26 15:44:44,173 - INFO - Book with ID 6786 deleted
+2024-09-26 15:44:44,175 - WARNING - Book with ID 6786 not found
+2024-09-26 15:44:44,178 - WARNING - Book with ID 6786 not found
+2024-09-26 15:44:44,181 - INFO - User 'User Name 6735' added
+2024-09-26 15:44:44,186 - INFO - User with ID 6735 deleted
+2024-09-26 15:44:44,187 - INFO - Deleted reviews by user 6735
+2024-09-26 15:44:44,188 - INFO - Deleted user with ID 6735 and their reading progress
+2024-09-26 15:44:44,219 - INFO - Book 'Book Title 1040' added successfully
+2024-09-26 15:44:44,222 - INFO - Book with ID 1040 deleted
+2024-09-26 15:44:44,224 - WARNING - Book with ID 1040 not found
+2024-09-26 15:44:44,227 - WARNING - Book with ID 1040 not found
+2024-09-26 15:44:44,230 - INFO - User 'User Name 8741' added
+2024-09-26 15:44:44,233 - INFO - User with ID 8741 deleted
+2024-09-26 15:44:44,234 - INFO - Deleted reviews by user 8741
+2024-09-26 15:44:44,236 - INFO - Deleted user with ID 8741 and their reading progress
+2024-09-26 15:44:44,490 - INFO - Book 'Book Title 7858' added successfully
+2024-09-26 15:44:44,505 - INFO - Book with ID 7858 deleted
+2024-09-26 15:44:44,509 - INFO - Book 'Book Title 7669' added successfully
+2024-09-26 15:44:44,511 - INFO - Book 'Book Title 9055' added successfully
+2024-09-26 15:44:44,517 - INFO - Book with ID 7669 deleted
+2024-09-26 15:44:44,519 - WARNING - Book with ID 7858 not found
+2024-09-26 15:44:44,521 - INFO - Book with ID 9055 deleted
+2024-09-26 15:44:44,525 - WARNING - Book with ID 7858 not found
+2024-09-26 15:44:44,527 - WARNING - Book with ID 7669 not found
+2024-09-26 15:44:44,529 - WARNING - Book with ID 9055 not found
+2024-09-26 15:44:44,532 - WARNING - Book with ID 7669 not found
+2024-09-26 15:44:44,534 - WARNING - Book with ID 9055 not found
+2024-09-26 15:44:44,537 - INFO - User 'User Name 4663' added
+2024-09-26 15:44:44,541 - INFO - User 'User Name 1394' added
+2024-09-26 15:44:44,543 - INFO - Book 'Book Title 1483' added successfully
+2024-09-26 15:44:44,544 - INFO - User with ID 4663 deleted
+2024-09-26 15:44:44,546 - INFO - User 'User Name 9782' added
+2024-09-26 15:44:44,547 - INFO - Deleted reviews by user 4663
+2024-09-26 15:44:44,548 - INFO - User with ID 1394 deleted
+2024-09-26 15:44:44,549 - INFO - Deleted user with ID 4663 and their reading progress
+2024-09-26 15:44:44,551 - INFO - Book with ID 1483 deleted
+2024-09-26 15:44:44,552 - INFO - User with ID 9782 deleted
+2024-09-26 15:44:44,552 - INFO - Deleted reviews by user 1394
+2024-09-26 15:44:44,553 - INFO - Deleted reviews by user 9782
+2024-09-26 15:44:44,554 - INFO - Deleted user with ID 1394 and their reading progress
+2024-09-26 15:44:44,555 - WARNING - Book with ID 1483 not found
+2024-09-26 15:44:44,557 - INFO - Deleted user with ID 9782 and their reading progress
+2024-09-26 15:44:44,558 - WARNING - Book with ID 1483 not found
+2024-09-26 15:44:44,561 - INFO - User 'User Name 4669' added
+2024-09-26 15:44:44,562 - INFO - User with ID 4669 deleted
+2024-09-26 15:44:44,563 - INFO - Deleted reviews by user 4669
+2024-09-26 15:44:44,563 - INFO - Deleted user with ID 4669 and their reading progress
+2024-09-26 15:44:44,870 - INFO - Book 'Book Title 2290' added successfully
+2024-09-26 15:44:44,891 - INFO - Book with ID 2290 deleted
+2024-09-26 15:44:44,894 - WARNING - Book with ID 2290 not found
+2024-09-26 15:44:44,911 - WARNING - Book with ID 2290 not found
+2024-09-26 15:44:44,915 - INFO - User 'User Name 4356' added
+2024-09-26 15:44:44,920 - INFO - User with ID 4356 deleted
+2024-09-26 15:44:44,922 - INFO - Deleted reviews by user 4356
+2024-09-26 15:44:44,923 - INFO - Deleted user with ID 4356 and their reading progress
+2024-09-26 15:44:44,984 - INFO - Book 'Book Title 7447' added successfully
+2024-09-26 15:44:44,986 - INFO - Book 'Book Title 8209' added successfully
+2024-09-26 15:44:44,990 - INFO - Book with ID 7447 deleted
+2024-09-26 15:44:44,992 - INFO - Book with ID 8209 deleted
+2024-09-26 15:44:44,995 - WARNING - Book with ID 7447 not found
+2024-09-26 15:44:44,996 - WARNING - Book with ID 8209 not found
+2024-09-26 15:44:44,998 - WARNING - Book with ID 7447 not found
+2024-09-26 15:44:45,000 - WARNING - Book with ID 8209 not found
+2024-09-26 15:44:45,003 - INFO - User 'User Name 4171' added
+2024-09-26 15:44:45,005 - INFO - User 'User Name 8732' added
+2024-09-26 15:44:45,007 - INFO - User with ID 4171 deleted
+2024-09-26 15:44:45,008 - INFO - User with ID 8732 deleted
+2024-09-26 15:44:45,009 - INFO - Deleted reviews by user 4171
+2024-09-26 15:44:45,009 - INFO - Deleted reviews by user 8732
+2024-09-26 15:44:45,010 - INFO - Deleted user with ID 4171 and their reading progress
+2024-09-26 15:44:45,011 - INFO - Deleted user with ID 8732 and their reading progress
+2024-09-26 15:44:45,205 - INFO - Book 'Book Title 8752' added successfully
+2024-09-26 15:44:45,213 - INFO - Book with ID 8752 deleted
+2024-09-26 15:44:45,222 - WARNING - Book with ID 8752 not found
+2024-09-26 15:44:45,231 - WARNING - Book with ID 8752 not found
+2024-09-26 15:44:45,243 - INFO - User 'User Name 9710' added
+2024-09-26 15:44:45,249 - INFO - User with ID 9710 deleted
+2024-09-26 15:44:45,250 - INFO - Book 'Book Title 6338' added successfully
+2024-09-26 15:44:45,253 - INFO - Deleted reviews by user 9710
+2024-09-26 15:44:45,255 - INFO - Deleted user with ID 9710 and their reading progress
+2024-09-26 15:44:45,257 - INFO - Book with ID 6338 deleted
+2024-09-26 15:44:45,260 - WARNING - Book with ID 6338 not found
+2024-09-26 15:44:45,264 - WARNING - Book with ID 6338 not found
+2024-09-26 15:44:45,268 - INFO - User 'User Name 4033' added
+2024-09-26 15:44:45,272 - INFO - User with ID 4033 deleted
+2024-09-26 15:44:45,274 - INFO - Deleted reviews by user 4033
+2024-09-26 15:44:45,276 - INFO - Deleted user with ID 4033 and their reading progress
+2024-09-26 15:44:45,563 - INFO - Book 'Book Title 6580' added successfully
+2024-09-26 15:44:45,579 - INFO - Book 'Book Title 1451' added successfully
+2024-09-26 15:44:45,584 - INFO - Book 'Book Title 6976' added successfully
+2024-09-26 15:44:45,586 - INFO - Book 'Book Title 6073' added successfully
+2024-09-26 15:44:45,589 - INFO - Book with ID 6580 deleted
+2024-09-26 15:44:45,592 - INFO - Book with ID 6976 deleted
+2024-09-26 15:44:45,594 - INFO - Book with ID 1451 deleted
+2024-09-26 15:44:45,596 - INFO - Book with ID 6073 deleted
+2024-09-26 15:44:45,598 - WARNING - Book with ID 6580 not found
+2024-09-26 15:44:45,600 - WARNING - Book with ID 1451 not found
+2024-09-26 15:44:45,601 - WARNING - Book with ID 6976 not found
+2024-09-26 15:44:45,603 - WARNING - Book with ID 6073 not found
+2024-09-26 15:44:45,604 - WARNING - Book with ID 6580 not found
+2024-09-26 15:44:45,606 - WARNING - Book with ID 6976 not found
+2024-09-26 15:44:45,607 - WARNING - Book with ID 1451 not found
+2024-09-26 15:44:45,608 - WARNING - Book with ID 6073 not found
+2024-09-26 15:44:45,610 - INFO - User 'User Name 3668' added
+2024-09-26 15:44:45,612 - INFO - User 'User Name 9884' added
+2024-09-26 15:44:45,613 - INFO - User 'User Name 1260' added
+2024-09-26 15:44:45,614 - INFO - User 'User Name 1642' added
+2024-09-26 15:44:45,615 - INFO - User with ID 3668 deleted
+2024-09-26 15:44:45,616 - INFO - User with ID 9884 deleted
+2024-09-26 15:44:45,617 - INFO - User with ID 1260 deleted
+2024-09-26 15:44:45,618 - INFO - Deleted reviews by user 3668
+2024-09-26 15:44:45,619 - INFO - Deleted reviews by user 9884
+2024-09-26 15:44:45,619 - INFO - User with ID 1642 deleted
+2024-09-26 15:44:45,620 - INFO - Deleted reviews by user 1260
+2024-09-26 15:44:45,620 - INFO - Deleted user with ID 3668 and their reading progress
+2024-09-26 15:44:45,622 - INFO - Deleted reviews by user 1642
+2024-09-26 15:44:45,623 - INFO - Deleted user with ID 9884 and their reading progress
+2024-09-26 15:44:45,624 - INFO - Deleted user with ID 1260 and their reading progress
+2024-09-26 15:44:45,624 - INFO - Deleted user with ID 1642 and their reading progress
+2024-09-26 15:44:45,938 - INFO - Book 'Book Title 1440' added successfully
+2024-09-26 15:44:45,947 - INFO - Book with ID 1440 deleted
+2024-09-26 15:44:45,955 - WARNING - Book with ID 1440 not found
+2024-09-26 15:44:45,962 - WARNING - Book with ID 1440 not found
+2024-09-26 15:44:45,968 - INFO - User 'User Name 7638' added
+2024-09-26 15:44:45,971 - INFO - User with ID 7638 deleted
+2024-09-26 15:44:45,973 - INFO - Deleted reviews by user 7638
+2024-09-26 15:44:45,974 - INFO - Deleted user with ID 7638 and their reading progress
+2024-09-26 15:44:46,028 - INFO - Book 'Book Title 2445' added successfully
+2024-09-26 15:44:46,029 - INFO - Book 'Book Title 9265' added successfully
+2024-09-26 15:44:46,032 - INFO - Book with ID 2445 deleted
+2024-09-26 15:44:46,034 - INFO - Book with ID 9265 deleted
+2024-09-26 15:44:46,037 - WARNING - Book with ID 2445 not found
+2024-09-26 15:44:46,038 - WARNING - Book with ID 9265 not found
+2024-09-26 15:44:46,041 - WARNING - Book with ID 2445 not found
+2024-09-26 15:44:46,042 - WARNING - Book with ID 9265 not found
+2024-09-26 15:44:46,044 - INFO - User 'User Name 7800' added
+2024-09-26 15:44:46,046 - INFO - User 'User Name 9658' added
+2024-09-26 15:44:46,047 - INFO - User with ID 7800 deleted
+2024-09-26 15:44:46,048 - INFO - User with ID 9658 deleted
+2024-09-26 15:44:46,048 - INFO - Deleted reviews by user 7800
+2024-09-26 15:44:46,048 - INFO - Deleted reviews by user 9658
+2024-09-26 15:44:46,049 - INFO - Deleted user with ID 7800 and their reading progress
+2024-09-26 15:44:46,050 - INFO - Deleted user with ID 9658 and their reading progress
+2024-09-26 15:44:46,299 - INFO - Book 'Book Title 2738' added successfully
+2024-09-26 15:44:46,305 - INFO - Book with ID 2738 deleted
+2024-09-26 15:44:46,310 - WARNING - Book with ID 2738 not found
+2024-09-26 15:44:46,316 - WARNING - Book with ID 2738 not found
+2024-09-26 15:44:46,321 - INFO - User 'User Name 4415' added
+2024-09-26 15:44:46,325 - INFO - User with ID 4415 deleted
+2024-09-26 15:44:46,327 - INFO - Deleted reviews by user 4415
+2024-09-26 15:44:46,328 - INFO - Deleted user with ID 4415 and their reading progress
+2024-09-26 15:44:46,642 - INFO - Book 'Book Title 5116' added successfully
+2024-09-26 15:44:46,644 - INFO - Book 'Book Title 6945' added successfully
+2024-09-26 15:44:46,645 - INFO - Book 'Book Title 3788' added successfully
+2024-09-26 15:44:46,646 - INFO - Book 'Book Title 1868' added successfully
+2024-09-26 15:44:46,649 - INFO - Book with ID 5116 deleted
+2024-09-26 15:44:46,650 - INFO - Book with ID 6945 deleted
+2024-09-26 15:44:46,651 - INFO - Book with ID 3788 deleted
+2024-09-26 15:44:46,652 - INFO - Book with ID 1868 deleted
+2024-09-26 15:44:46,655 - WARNING - Book with ID 5116 not found
+2024-09-26 15:44:46,656 - WARNING - Book with ID 6945 not found
+2024-09-26 15:44:46,657 - WARNING - Book with ID 1868 not found
+2024-09-26 15:44:46,657 - WARNING - Book with ID 3788 not found
+2024-09-26 15:44:46,660 - WARNING - Book with ID 5116 not found
+2024-09-26 15:44:46,660 - WARNING - Book with ID 3788 not found
+2024-09-26 15:44:46,661 - WARNING - Book with ID 6945 not found
+2024-09-26 15:44:46,662 - WARNING - Book with ID 1868 not found
+2024-09-26 15:44:46,665 - INFO - User 'User Name 3894' added
+2024-09-26 15:44:46,666 - INFO - User 'User Name 5601' added
+2024-09-26 15:44:46,668 - INFO - User 'User Name 1183' added
+2024-09-26 15:44:46,669 - INFO - User 'User Name 3017' added
+2024-09-26 15:44:46,671 - INFO - User with ID 3894 deleted
+2024-09-26 15:44:46,672 - INFO - User with ID 5601 deleted
+2024-09-26 15:44:46,673 - INFO - User with ID 3017 deleted
+2024-09-26 15:44:46,673 - INFO - User with ID 1183 deleted
+2024-09-26 15:44:46,674 - INFO - Deleted reviews by user 3894
+2024-09-26 15:44:46,674 - INFO - Deleted reviews by user 5601
+2024-09-26 15:44:46,674 - INFO - Deleted reviews by user 3017
+2024-09-26 15:44:46,675 - INFO - Deleted reviews by user 1183
+2024-09-26 15:44:46,675 - INFO - Deleted user with ID 3894 and their reading progress
+2024-09-26 15:44:46,676 - INFO - Deleted user with ID 5601 and their reading progress
+2024-09-26 15:44:46,677 - INFO - Deleted user with ID 3017 and their reading progress
+2024-09-26 15:44:46,678 - INFO - Deleted user with ID 1183 and their reading progress
+2024-09-26 15:44:46,988 - INFO - Book 'Book Title 1800' added successfully
+2024-09-26 15:44:46,997 - INFO - Book with ID 1800 deleted
+2024-09-26 15:44:47,004 - WARNING - Book with ID 1800 not found
+2024-09-26 15:44:47,009 - WARNING - Book with ID 1800 not found
+2024-09-26 15:44:47,014 - INFO - User 'User Name 2341' added
+2024-09-26 15:44:47,019 - INFO - User with ID 2341 deleted
+2024-09-26 15:44:47,020 - INFO - Deleted reviews by user 2341
+2024-09-26 15:44:47,022 - INFO - Deleted user with ID 2341 and their reading progress
+2024-09-26 15:44:47,059 - INFO - Book 'Book Title 8162' added successfully
+2024-09-26 15:44:47,060 - INFO - Book 'Book Title 4878' added successfully
+2024-09-26 15:44:47,062 - INFO - Book with ID 8162 deleted
+2024-09-26 15:44:47,064 - INFO - Book with ID 4878 deleted
+2024-09-26 15:44:47,065 - WARNING - Book with ID 8162 not found
+2024-09-26 15:44:47,067 - WARNING - Book with ID 4878 not found
+2024-09-26 15:44:47,070 - WARNING - Book with ID 8162 not found
+2024-09-26 15:44:47,071 - WARNING - Book with ID 4878 not found
+2024-09-26 15:44:47,074 - INFO - User 'User Name 2463' added
+2024-09-26 15:44:47,075 - INFO - User 'User Name 4962' added
+2024-09-26 15:44:47,077 - INFO - User with ID 2463 deleted
+2024-09-26 15:44:47,078 - INFO - User with ID 4962 deleted
+2024-09-26 15:44:47,078 - INFO - Deleted reviews by user 2463
+2024-09-26 15:44:47,079 - INFO - Deleted reviews by user 4962
+2024-09-26 15:44:47,079 - INFO - Deleted user with ID 2463 and their reading progress
+2024-09-26 15:44:47,080 - INFO - Deleted user with ID 4962 and their reading progress
+2024-09-26 15:44:47,345 - INFO - Book 'Book Title 1009' added successfully
+2024-09-26 15:44:47,355 - INFO - Book with ID 1009 deleted
+2024-09-26 15:44:47,363 - WARNING - Book with ID 1009 not found
+2024-09-26 15:44:47,371 - WARNING - Book with ID 1009 not found
+2024-09-26 15:44:47,378 - INFO - User 'User Name 9697' added
+2024-09-26 15:44:47,382 - INFO - User with ID 9697 deleted
+2024-09-26 15:44:47,385 - INFO - Deleted reviews by user 9697
+2024-09-26 15:44:47,386 - INFO - Deleted user with ID 9697 and their reading progress
+2024-09-26 15:44:47,686 - INFO - Book 'Book Title 6771' added successfully
+2024-09-26 15:44:47,689 - INFO - Book 'Book Title 1736' added successfully
+2024-09-26 15:44:47,691 - INFO - Book 'Book Title 2109' added successfully
+2024-09-26 15:44:47,698 - INFO - Book with ID 1736 deleted
+2024-09-26 15:44:47,701 - INFO - Book with ID 6771 deleted
+2024-09-26 15:44:47,703 - INFO - Book with ID 2109 deleted
+2024-09-26 15:44:47,707 - WARNING - Book with ID 1736 not found
+2024-09-26 15:44:47,709 - WARNING - Book with ID 6771 not found
+2024-09-26 15:44:47,710 - WARNING - Book with ID 2109 not found
+2024-09-26 15:44:47,713 - WARNING - Book with ID 1736 not found
+2024-09-26 15:44:47,716 - WARNING - Book with ID 6771 not found
+2024-09-26 15:44:47,717 - WARNING - Book with ID 2109 not found
+2024-09-26 15:44:47,721 - INFO - User 'User Name 6325' added
+2024-09-26 15:44:47,723 - INFO - User 'User Name 9679' added
+2024-09-26 15:44:47,724 - INFO - User 'User Name 8381' added
+2024-09-26 15:44:47,726 - INFO - User with ID 6325 deleted
+2024-09-26 15:44:47,727 - INFO - User with ID 9679 deleted
+2024-09-26 15:44:47,727 - INFO - User with ID 8381 deleted
+2024-09-26 15:44:47,728 - INFO - Deleted reviews by user 6325
+2024-09-26 15:44:47,728 - INFO - Deleted reviews by user 8381
+2024-09-26 15:44:47,729 - INFO - Deleted reviews by user 9679
+2024-09-26 15:44:47,729 - INFO - Deleted user with ID 6325 and their reading progress
+2024-09-26 15:44:47,730 - INFO - Deleted user with ID 8381 and their reading progress
+2024-09-26 15:44:47,731 - INFO - Deleted user with ID 9679 and their reading progress
+2024-09-26 15:44:48,044 - INFO - Book 'Book Title 3325' added successfully
+2024-09-26 15:44:48,049 - INFO - Book with ID 3325 deleted
+2024-09-26 15:44:48,055 - WARNING - Book with ID 3325 not found
+2024-09-26 15:44:48,058 - WARNING - Book with ID 3325 not found
+2024-09-26 15:44:48,062 - INFO - User 'User Name 8178' added
+2024-09-26 15:44:48,065 - INFO - User with ID 8178 deleted
+2024-09-26 15:44:48,066 - INFO - Deleted reviews by user 8178
+2024-09-26 15:44:48,067 - INFO - Deleted user with ID 8178 and their reading progress
+2024-09-26 15:44:48,089 - INFO - Book 'Book Title 1267' added successfully
+2024-09-26 15:44:48,090 - INFO - Book 'Book Title 4481' added successfully
+2024-09-26 15:44:48,092 - INFO - Book with ID 1267 deleted
+2024-09-26 15:44:48,093 - INFO - Book with ID 4481 deleted
+2024-09-26 15:44:48,096 - WARNING - Book with ID 1267 not found
+2024-09-26 15:44:48,097 - WARNING - Book with ID 4481 not found
+2024-09-26 15:44:48,098 - WARNING - Book with ID 4481 not found
+2024-09-26 15:44:48,099 - WARNING - Book with ID 1267 not found
+2024-09-26 15:44:48,102 - INFO - User 'User Name 6404' added
+2024-09-26 15:44:48,104 - INFO - User 'User Name 7457' added
+2024-09-26 15:44:48,105 - INFO - User with ID 6404 deleted
+2024-09-26 15:44:48,106 - INFO - User with ID 7457 deleted
+2024-09-26 15:44:48,106 - INFO - Deleted reviews by user 6404
+2024-09-26 15:44:48,107 - INFO - Deleted reviews by user 7457
+2024-09-26 15:44:48,107 - INFO - Deleted user with ID 6404 and their reading progress
+2024-09-26 15:44:48,108 - INFO - Deleted user with ID 7457 and their reading progress
+2024-09-26 15:44:48,404 - INFO - Book 'Book Title 2245' added successfully
+2024-09-26 15:44:48,412 - INFO - Book with ID 2245 deleted
+2024-09-26 15:44:48,420 - WARNING - Book with ID 2245 not found
+2024-09-26 15:44:48,426 - WARNING - Book with ID 2245 not found
+2024-09-26 15:44:48,431 - INFO - User 'User Name 3275' added
+2024-09-26 15:44:48,436 - INFO - User with ID 3275 deleted
+2024-09-26 15:44:48,438 - INFO - Deleted reviews by user 3275
+2024-09-26 15:44:48,439 - INFO - Deleted user with ID 3275 and their reading progress
+2024-09-26 15:44:48,743 - INFO - Book 'Book Title 8234' added successfully
+2024-09-26 15:44:48,745 - INFO - Book 'Book Title 7948' added successfully
+2024-09-26 15:44:48,747 - INFO - Book 'Book Title 2866' added successfully
+2024-09-26 15:44:48,750 - INFO - Book with ID 7948 deleted
+2024-09-26 15:44:48,752 - INFO - Book with ID 8234 deleted
+2024-09-26 15:44:48,753 - INFO - Book with ID 2866 deleted
+2024-09-26 15:44:48,756 - WARNING - Book with ID 7948 not found
+2024-09-26 15:44:48,757 - WARNING - Book with ID 8234 not found
+2024-09-26 15:44:48,758 - WARNING - Book with ID 2866 not found
+2024-09-26 15:44:48,761 - WARNING - Book with ID 7948 not found
+2024-09-26 15:44:48,762 - WARNING - Book with ID 8234 not found
+2024-09-26 15:44:48,763 - WARNING - Book with ID 2866 not found
+2024-09-26 15:44:48,766 - INFO - User 'User Name 4092' added
+2024-09-26 15:44:48,768 - INFO - User 'User Name 3101' added
+2024-09-26 15:44:48,769 - INFO - User 'User Name 4177' added
+2024-09-26 15:44:48,771 - INFO - User with ID 4092 deleted
+2024-09-26 15:44:48,772 - INFO - User with ID 3101 deleted
+2024-09-26 15:44:48,773 - INFO - User with ID 4177 deleted
+2024-09-26 15:44:48,774 - INFO - Deleted reviews by user 4092
+2024-09-26 15:44:48,775 - INFO - Deleted reviews by user 3101
+2024-09-26 15:44:48,775 - INFO - Deleted reviews by user 4177
+2024-09-26 15:44:48,776 - INFO - Deleted user with ID 4092 and their reading progress
+2024-09-26 15:44:48,777 - INFO - Deleted user with ID 4177 and their reading progress
+2024-09-26 15:44:48,778 - INFO - Deleted user with ID 3101 and their reading progress
+2024-09-26 15:44:49,084 - INFO - Book 'Book Title 1696' added successfully
+2024-09-26 15:44:49,087 - INFO - Book with ID 1696 deleted
+2024-09-26 15:44:49,091 - WARNING - Book with ID 1696 not found
+2024-09-26 15:44:49,094 - WARNING - Book with ID 1696 not found
+2024-09-26 15:44:49,098 - INFO - User 'User Name 1292' added
+2024-09-26 15:44:49,101 - INFO - User with ID 1292 deleted
+2024-09-26 15:44:49,102 - INFO - Deleted reviews by user 1292
+2024-09-26 15:44:49,103 - INFO - Deleted user with ID 1292 and their reading progress
+2024-09-26 15:44:49,114 - INFO - Book 'Book Title 1434' added successfully
+2024-09-26 15:44:49,116 - INFO - Book with ID 1434 deleted
+2024-09-26 15:44:49,120 - WARNING - Book with ID 1434 not found
+2024-09-26 15:44:49,122 - WARNING - Book with ID 1434 not found
+2024-09-26 15:44:49,125 - INFO - User 'User Name 7511' added
+2024-09-26 15:44:49,127 - INFO - User with ID 7511 deleted
+2024-09-26 15:44:49,128 - INFO - Deleted reviews by user 7511
+2024-09-26 15:44:49,129 - INFO - Deleted user with ID 7511 and their reading progress
+2024-09-26 15:44:49,460 - INFO - Book 'Book Title 4978' added successfully
+2024-09-26 15:44:49,469 - INFO - Book with ID 4978 deleted
+2024-09-26 15:44:49,476 - WARNING - Book with ID 4978 not found
+2024-09-26 15:44:49,481 - WARNING - Book with ID 4978 not found
+2024-09-26 15:44:49,487 - INFO - User 'User Name 3486' added
+2024-09-26 15:44:49,491 - INFO - User with ID 3486 deleted
+2024-09-26 15:44:49,492 - INFO - Deleted reviews by user 3486
+2024-09-26 15:44:49,493 - INFO - Deleted user with ID 3486 and their reading progress
+2024-09-26 15:44:49,794 - INFO - Book 'Book Title 6523' added successfully
+2024-09-26 15:44:49,798 - INFO - Book 'Book Title 3374' added successfully
+2024-09-26 15:44:49,801 - INFO - Book 'Book Title 8642' added successfully
+2024-09-26 15:44:49,810 - INFO - Book with ID 3374 deleted
+2024-09-26 15:44:49,813 - INFO - Book with ID 6523 deleted
+2024-09-26 15:44:49,816 - INFO - Book with ID 8642 deleted
+2024-09-26 15:44:49,821 - WARNING - Book with ID 3374 not found
+2024-09-26 15:44:49,823 - WARNING - Book with ID 8642 not found
+2024-09-26 15:44:49,824 - WARNING - Book with ID 6523 not found
+2024-09-26 15:44:49,829 - WARNING - Book with ID 8642 not found
+2024-09-26 15:44:49,831 - WARNING - Book with ID 6523 not found
+2024-09-26 15:44:49,832 - WARNING - Book with ID 3374 not found
+2024-09-26 15:44:49,836 - INFO - User 'User Name 7281' added
+2024-09-26 15:44:49,838 - INFO - User 'User Name 3508' added
+2024-09-26 15:44:49,838 - INFO - User 'User Name 7620' added
+2024-09-26 15:44:49,841 - INFO - User with ID 7281 deleted
+2024-09-26 15:44:49,841 - INFO - User with ID 3508 deleted
+2024-09-26 15:44:49,842 - INFO - User with ID 7620 deleted
+2024-09-26 15:44:49,842 - INFO - Deleted reviews by user 7281
+2024-09-26 15:44:49,843 - INFO - Deleted reviews by user 3508
+2024-09-26 15:44:49,843 - INFO - Deleted reviews by user 7620
+2024-09-26 15:44:49,844 - INFO - Deleted user with ID 7281 and their reading progress
+2024-09-26 15:44:49,844 - INFO - Deleted user with ID 3508 and their reading progress
+2024-09-26 15:44:49,845 - INFO - Deleted user with ID 7620 and their reading progress
+2024-09-26 15:44:50,112 - INFO - Book 'Book Title 7179' added successfully
+2024-09-26 15:44:50,118 - INFO - Book with ID 7179 deleted
+2024-09-26 15:44:50,124 - WARNING - Book with ID 7179 not found
+2024-09-26 15:44:50,127 - WARNING - Book with ID 7179 not found
+2024-09-26 15:44:50,134 - INFO - User 'User Name 2008' added
+2024-09-26 15:44:50,139 - INFO - User with ID 2008 deleted
+2024-09-26 15:44:50,140 - INFO - Deleted reviews by user 2008
+2024-09-26 15:44:50,141 - INFO - Book 'Book Title 6407' added successfully
+2024-09-26 15:44:50,143 - INFO - Deleted user with ID 2008 and their reading progress
+2024-09-26 15:44:50,145 - INFO - Book with ID 6407 deleted
+2024-09-26 15:44:50,147 - WARNING - Book with ID 6407 not found
+2024-09-26 15:44:50,149 - WARNING - Book with ID 6407 not found
+2024-09-26 15:44:50,154 - INFO - User 'User Name 3815' added
+2024-09-26 15:44:50,156 - INFO - User with ID 3815 deleted
+2024-09-26 15:44:50,157 - INFO - Deleted reviews by user 3815
+2024-09-26 15:44:50,158 - INFO - Deleted user with ID 3815 and their reading progress
+2024-09-26 15:44:50,505 - INFO - Book 'Book Title 8331' added successfully
+2024-09-26 15:44:50,513 - INFO - Book with ID 8331 deleted
+2024-09-26 15:44:50,522 - WARNING - Book with ID 8331 not found
+2024-09-26 15:44:50,528 - WARNING - Book with ID 8331 not found
+2024-09-26 15:44:50,536 - INFO - User 'User Name 7785' added
+2024-09-26 15:44:50,540 - INFO - User with ID 7785 deleted
+2024-09-26 15:44:50,541 - INFO - Deleted reviews by user 7785
+2024-09-26 15:44:50,543 - INFO - Deleted user with ID 7785 and their reading progress
+2024-09-26 15:44:50,867 - INFO - Book 'Book Title 6645' added successfully
+2024-09-26 15:44:50,871 - INFO - Book 'Book Title 6774' added successfully
+2024-09-26 15:44:50,881 - INFO - Book with ID 6645 deleted
+2024-09-26 15:44:50,886 - INFO - Book with ID 6774 deleted
+2024-09-26 15:44:50,891 - WARNING - Book with ID 6645 not found
+2024-09-26 15:44:50,894 - WARNING - Book with ID 6774 not found
+2024-09-26 15:44:50,897 - WARNING - Book with ID 6645 not found
+2024-09-26 15:44:50,899 - WARNING - Book with ID 6774 not found
+2024-09-26 15:44:50,903 - INFO - User 'User Name 4779' added
+2024-09-26 15:44:50,905 - INFO - User 'User Name 1764' added
+2024-09-26 15:44:50,907 - INFO - User with ID 4779 deleted
+2024-09-26 15:44:50,908 - INFO - User with ID 1764 deleted
+2024-09-26 15:44:50,909 - INFO - Deleted reviews by user 4779
+2024-09-26 15:44:50,909 - INFO - Deleted reviews by user 1764
+2024-09-26 15:44:50,910 - INFO - Deleted user with ID 4779 and their reading progress
+2024-09-26 15:44:50,912 - INFO - Deleted user with ID 1764 and their reading progress
+2024-09-26 15:44:51,159 - INFO - Book 'Book Title 9755' added successfully
+2024-09-26 15:44:51,163 - INFO - Book with ID 9755 deleted
+2024-09-26 15:44:51,166 - INFO - Book 'Book Title 7314' added successfully
+2024-09-26 15:44:51,168 - WARNING - Book with ID 9755 not found
+2024-09-26 15:44:51,171 - INFO - Book with ID 7314 deleted
+2024-09-26 15:44:51,173 - WARNING - Book with ID 9755 not found
+2024-09-26 15:44:51,176 - WARNING - Book with ID 7314 not found
+2024-09-26 15:44:51,177 - INFO - User 'User Name 5488' added
+2024-09-26 15:44:51,179 - WARNING - Book with ID 7314 not found
+2024-09-26 15:44:51,180 - INFO - User with ID 5488 deleted
+2024-09-26 15:44:51,181 - INFO - Deleted reviews by user 5488
+2024-09-26 15:44:51,182 - INFO - User 'User Name 1438' added
+2024-09-26 15:44:51,183 - INFO - Deleted user with ID 5488 and their reading progress
+2024-09-26 15:44:51,185 - INFO - User with ID 1438 deleted
+2024-09-26 15:44:51,187 - INFO - Deleted reviews by user 1438
+2024-09-26 15:44:51,188 - INFO - Deleted user with ID 1438 and their reading progress
+2024-09-26 15:44:51,568 - INFO - Book 'Book Title 7670' added successfully
+2024-09-26 15:44:51,578 - INFO - Book with ID 7670 deleted
+2024-09-26 15:44:51,588 - WARNING - Book with ID 7670 not found
+2024-09-26 15:44:51,594 - WARNING - Book with ID 7670 not found
+2024-09-26 15:44:51,600 - INFO - User 'User Name 8609' added
+2024-09-26 15:44:51,604 - INFO - User with ID 8609 deleted
+2024-09-26 15:44:51,606 - INFO - Deleted reviews by user 8609
+2024-09-26 15:44:51,609 - INFO - Deleted user with ID 8609 and their reading progress
+2024-09-26 15:44:51,930 - INFO - Book 'Book Title 9120' added successfully
+2024-09-26 15:44:51,933 - INFO - Book 'Book Title 6524' added successfully
+2024-09-26 15:44:51,938 - INFO - Book with ID 9120 deleted
+2024-09-26 15:44:51,940 - INFO - Book with ID 6524 deleted
+2024-09-26 15:44:51,943 - WARNING - Book with ID 9120 not found
+2024-09-26 15:44:51,945 - WARNING - Book with ID 6524 not found
+2024-09-26 15:44:51,947 - WARNING - Book with ID 9120 not found
+2024-09-26 15:44:51,949 - WARNING - Book with ID 6524 not found
+2024-09-26 15:44:51,953 - INFO - User 'User Name 1957' added
+2024-09-26 15:44:51,954 - INFO - User 'User Name 3320' added
+2024-09-26 15:44:51,956 - INFO - User with ID 1957 deleted
+2024-09-26 15:44:51,957 - INFO - User with ID 3320 deleted
+2024-09-26 15:44:51,957 - INFO - Deleted reviews by user 1957
+2024-09-26 15:44:51,957 - INFO - Deleted reviews by user 3320
+2024-09-26 15:44:51,957 - INFO - Deleted user with ID 1957 and their reading progress
+2024-09-26 15:44:51,959 - INFO - Deleted user with ID 3320 and their reading progress
+2024-09-26 15:44:52,202 - INFO - Book 'Book Title 6851' added successfully
+2024-09-26 15:44:52,204 - INFO - Book with ID 6851 deleted
+2024-09-26 15:44:52,206 - WARNING - Book with ID 6851 not found
+2024-09-26 15:44:52,209 - WARNING - Book with ID 6851 not found
+2024-09-26 15:44:52,212 - INFO - User 'User Name 5442' added
+2024-09-26 15:44:52,214 - INFO - User with ID 5442 deleted
+2024-09-26 15:44:52,215 - INFO - Deleted reviews by user 5442
+2024-09-26 15:44:52,217 - INFO - Deleted user with ID 5442 and their reading progress
+2024-09-26 15:44:52,627 - INFO - Book 'Book Title 7868' added successfully
+2024-09-26 15:44:52,631 - INFO - Book with ID 7868 deleted
+2024-09-26 15:44:52,633 - WARNING - Book with ID 7868 not found
+2024-09-26 15:44:52,636 - WARNING - Book with ID 7868 not found
+2024-09-26 15:44:52,639 - INFO - User 'User Name 6400' added
+2024-09-26 15:44:52,642 - INFO - User with ID 6400 deleted
+2024-09-26 15:44:52,643 - INFO - Deleted reviews by user 6400
+2024-09-26 15:44:52,644 - INFO - Deleted user with ID 6400 and their reading progress
+2024-09-26 15:44:52,977 - INFO - Book 'Book Title 9836' added successfully
+2024-09-26 15:44:52,981 - INFO - Book 'Book Title 8885' added successfully
+2024-09-26 15:44:52,991 - INFO - Book with ID 9836 deleted
+2024-09-26 15:44:52,993 - INFO - Book with ID 8885 deleted
+2024-09-26 15:44:52,998 - WARNING - Book with ID 9836 not found
+2024-09-26 15:44:53,001 - WARNING - Book with ID 8885 not found
+2024-09-26 15:44:53,005 - WARNING - Book with ID 9836 not found
+2024-09-26 15:44:53,007 - WARNING - Book with ID 8885 not found
+2024-09-26 15:44:53,011 - INFO - User 'User Name 3747' added
+2024-09-26 15:44:53,013 - INFO - User 'User Name 4867' added
+2024-09-26 15:44:53,015 - INFO - User with ID 3747 deleted
+2024-09-26 15:44:53,016 - INFO - User with ID 4867 deleted
+2024-09-26 15:44:53,017 - INFO - Deleted reviews by user 3747
+2024-09-26 15:44:53,017 - INFO - Deleted reviews by user 4867
+2024-09-26 15:44:53,018 - INFO - Deleted user with ID 3747 and their reading progress
+2024-09-26 15:44:53,020 - INFO - Deleted user with ID 4867 and their reading progress
+2024-09-26 15:44:53,239 - INFO - Book 'Book Title 2926' added successfully
+2024-09-26 15:44:53,249 - INFO - Book with ID 2926 deleted
+2024-09-26 15:44:53,258 - WARNING - Book with ID 2926 not found
+2024-09-26 15:44:53,266 - WARNING - Book with ID 2926 not found
+2024-09-26 15:44:53,273 - INFO - User 'User Name 9399' added
+2024-09-26 15:44:53,276 - INFO - User with ID 9399 deleted
+2024-09-26 15:44:53,277 - INFO - Deleted reviews by user 9399
+2024-09-26 15:44:53,279 - INFO - Deleted user with ID 9399 and their reading progress
+2024-09-26 15:44:54,041 - INFO - Book 'Book Title 8603' added successfully
+2024-09-26 15:44:54,045 - INFO - Book 'Book Title 8891' added successfully
+2024-09-26 15:44:54,054 - INFO - Book with ID 8603 deleted
+2024-09-26 15:44:54,057 - INFO - Book with ID 8891 deleted
+2024-09-26 15:44:54,063 - WARNING - Book with ID 8603 not found
+2024-09-26 15:44:54,066 - WARNING - Book with ID 8891 not found
+2024-09-26 15:44:54,070 - WARNING - Book with ID 8603 not found
+2024-09-26 15:44:54,072 - WARNING - Book with ID 8891 not found
+2024-09-26 15:44:54,075 - INFO - User 'User Name 9785' added
+2024-09-26 15:44:54,076 - INFO - User 'User Name 9113' added
+2024-09-26 15:44:54,079 - INFO - User with ID 9785 deleted
+2024-09-26 15:44:54,079 - INFO - User with ID 9113 deleted
+2024-09-26 15:44:54,080 - INFO - Deleted reviews by user 9785
+2024-09-26 15:44:54,080 - INFO - Deleted reviews by user 9113
+2024-09-26 15:44:54,080 - INFO - Deleted user with ID 9785 and their reading progress
+2024-09-26 15:44:54,081 - INFO - Deleted user with ID 9113 and their reading progress
+2024-09-26 15:44:54,304 - INFO - Book 'Book Title 6664' added successfully
+2024-09-26 15:44:54,313 - INFO - Book with ID 6664 deleted
+2024-09-26 15:44:54,321 - WARNING - Book with ID 6664 not found
+2024-09-26 15:44:54,329 - WARNING - Book with ID 6664 not found
+2024-09-26 15:44:54,336 - INFO - User 'User Name 5267' added
+2024-09-26 15:44:54,339 - INFO - User with ID 5267 deleted
+2024-09-26 15:44:54,340 - INFO - Deleted reviews by user 5267
+2024-09-26 15:44:54,342 - INFO - Deleted user with ID 5267 and their reading progress
+2024-09-26 15:44:55,097 - INFO - Book 'Book Title 6475' added successfully
+2024-09-26 15:44:55,107 - INFO - Book with ID 6475 deleted
+2024-09-26 15:44:55,113 - WARNING - Book with ID 6475 not found
+2024-09-26 15:44:55,117 - WARNING - Book with ID 6475 not found
+2024-09-26 15:44:55,123 - INFO - User 'User Name 9441' added
+2024-09-26 15:44:55,127 - INFO - User with ID 9441 deleted
+2024-09-26 15:44:55,129 - INFO - Deleted reviews by user 9441
+2024-09-26 15:44:55,131 - INFO - Deleted user with ID 9441 and their reading progress
+2024-09-26 15:44:55,363 - INFO - Book 'Book Title 7589' added successfully
+2024-09-26 15:44:55,372 - INFO - Book with ID 7589 deleted
+2024-09-26 15:44:55,380 - WARNING - Book with ID 7589 not found
+2024-09-26 15:44:55,390 - WARNING - Book with ID 7589 not found
+2024-09-26 15:44:55,396 - INFO - User 'User Name 7333' added
+2024-09-26 15:44:55,400 - INFO - User with ID 7333 deleted
+2024-09-26 15:44:55,402 - INFO - Deleted reviews by user 7333
+2024-09-26 15:44:55,404 - INFO - Deleted user with ID 7333 and their reading progress
+2024-09-26 15:44:56,152 - INFO - Book 'Book Title 3888' added successfully
+2024-09-26 15:44:56,156 - INFO - Book with ID 3888 deleted
+2024-09-26 15:44:56,159 - WARNING - Book with ID 3888 not found
+2024-09-26 15:44:56,161 - WARNING - Book with ID 3888 not found
+2024-09-26 15:44:56,164 - INFO - User 'User Name 9204' added
+2024-09-26 15:44:56,168 - INFO - User with ID 9204 deleted
+2024-09-26 15:44:56,170 - INFO - Deleted reviews by user 9204
+2024-09-26 15:44:56,171 - INFO - Deleted user with ID 9204 and their reading progress
+2024-09-26 15:44:57,181 - INFO - Book 'Book Title 3086' added successfully
+2024-09-26 15:44:57,184 - INFO - Book with ID 3086 deleted
+2024-09-26 15:44:57,188 - WARNING - Book with ID 3086 not found
+2024-09-26 15:44:57,189 - WARNING - Book with ID 3086 not found
+2024-09-26 15:44:57,193 - INFO - User 'User Name 3155' added
+2024-09-26 15:44:57,196 - INFO - User with ID 3155 deleted
+2024-09-26 15:44:57,197 - INFO - Deleted reviews by user 3155
+2024-09-26 15:44:57,198 - INFO - Deleted user with ID 3155 and their reading progress
+2024-09-26 15:45:50,707 - INFO - This is an info message
+2024-09-26 15:45:50,707 - WARNING - This is a warning message
+2024-09-26 15:45:50,708 - ERROR - This is an error message
+2024-09-26 15:50:21,327 - INFO - This is an info message
+2024-09-26 15:50:21,328 - WARNING - This is a warning message
+2024-09-26 15:50:21,328 - ERROR - This is an error message
+2024-09-26 16:00:26,083 - INFO - This is an info message
+2024-09-26 16:00:26,083 - WARNING - This is a warning message
+2024-09-26 16:00:26,084 - ERROR - This is an error message
+2024-09-26 16:00:31,167 - INFO - This is an info message
+2024-09-26 16:00:31,168 - WARNING - This is a warning message
+2024-09-26 16:00:31,168 - ERROR - This is an error message
+2024-09-26 16:00:46,042 - INFO - This is an info message
+2024-09-26 16:00:46,043 - WARNING - This is a warning message
+2024-09-26 16:00:46,043 - ERROR - This is an error message
+2024-09-26 16:00:50,302 - INFO - This is an info message
+2024-09-26 16:00:50,302 - WARNING - This is a warning message
+2024-09-26 16:00:50,303 - ERROR - This is an error message
+2024-09-26 16:00:52,797 - INFO - This is an info message
+2024-09-26 16:00:52,798 - WARNING - This is a warning message
+2024-09-26 16:00:52,798 - ERROR - This is an error message
+2024-09-26 16:01:56,512 - INFO - This is an info message
+2024-09-26 16:01:56,513 - WARNING - This is a warning message
+2024-09-26 16:01:56,513 - ERROR - This is an error message
+2024-09-26 16:04:23,022 - INFO - This is an info message
+2024-09-26 16:04:23,023 - WARNING - This is a warning message
+2024-09-26 16:04:23,023 - ERROR - This is an error message
+2024-09-26 16:05:02,768 - INFO - This is an info message
+2024-09-26 16:05:02,768 - WARNING - This is a warning message
+2024-09-26 16:05:02,769 - ERROR - This is an error message
+2024-09-26 16:11:59,927 - INFO - This is an info message
+2024-09-26 16:11:59,928 - WARNING - This is a warning message
+2024-09-26 16:11:59,928 - ERROR - This is an error message
+2024-09-26 16:12:02,431 - INFO - This is an info message
+2024-09-26 16:12:02,431 - WARNING - This is a warning message
+2024-09-26 16:12:02,431 - ERROR - This is an error message
+2024-09-26 16:17:00,583 - INFO - This is an info message
+2024-09-26 16:17:00,583 - WARNING - This is a warning message
+2024-09-26 16:17:00,583 - ERROR - This is an error message
+2024-09-26 16:17:03,179 - INFO - This is an info message
+2024-09-26 16:17:03,179 - WARNING - This is a warning message
+2024-09-26 16:17:03,180 - ERROR - This is an error message
+2024-09-26 16:18:43,181 - INFO - This is an info message
+2024-09-26 16:18:43,182 - WARNING - This is a warning message
+2024-09-26 16:18:43,182 - ERROR - This is an error message
+2024-09-26 16:25:04,619 - INFO - This is an info message
+2024-09-26 16:25:04,620 - WARNING - This is a warning message
+2024-09-26 16:25:04,620 - ERROR - This is an error message
